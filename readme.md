@@ -18,7 +18,7 @@ Anmeldung. Ein Klick auf einen Link öffnet das Notebook.
 
 ## Der Lehrgang
 
-Die Notebooks bauen aufeinander auf. Jedes ist für etwa eine Unterrichtsstunde gedacht und endet mit einer
+Die Notebooks bauen aufeinander auf. Jedes endet mit einer
 **Wettbewerbs-Ecke**: einer verkleinerten Fassung einer echten Junioraufgabe, die genau die neue Fähigkeit braucht.
 
 ### Phase A: Python-Grundlagen aus Blockly heraus
@@ -96,7 +96,7 @@ Lösung, schnellere Verfahren stehen am Ende unter „Für Neugierige“. **Bear
 Lösungsnotebook erst danach an. Die Sterne geben eine grobe Einschätzung der Schwierigkeit (★ leicht bis ★★★★ schwer, Erklärung
 in der Aufgabenliste).
 
-Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
+
 
 | Jahr | Aufgabe | Schwierigkeit | Lösungsnotebook |
 |---|---|---|---|
@@ -131,13 +131,6 @@ Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 | 2011 | Glücksrad | ★★★★ | [gluecksrad_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/30_Gluecksrad/gluecksrad_loesung.ipynb) |
 | 2011 | Rechteckschoner | ★★★ | [rechteckschoner_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/30_Rechteckschoner/rechteckschoner_loesung.ipynb) |
 
-## Für Lehrkräfte
-
-- Die Notebooks entstehen im Repository bwinfCC und werden mit einem Skript in den Ordner `content/` exportiert. Änderungen
-  am besten dort vornehmen.
-- Die JupyterLite-Seite baut ein GitHub-Actions-Workflow (`.github/workflows/deploy.yml`) bei jedem Push auf `main` und
-  veröffentlicht sie über GitHub Pages. Dafür muss unter *Settings → Pages* als *Source* „GitHub Actions“ eingestellt sein.
-- Lokal bauen: `pip install -r requirements.txt` und `jupyter lite build --contents content --output-dir _site`.
 
 ## Quellen
 
