@@ -1,0 +1,5 @@
+4
+8b Freitag 13 19 15
+5a Freitag 14 15 20
+5b Freitag 15 16 40
+5c Freitag 16 17 10
