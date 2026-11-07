@@ -18,6 +18,7 @@ Die Notebooks laufen direkt im Browser mit [JupyterLite](https://jupyterlite.rea
 
 | Jahr | Aufgabe | Lösungsnotebook |
 |---|---|---|
+| 2025 | Aufgabe 2: ChoreoGraph | [choreograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_ChoreoGraph/choreograph_loesung.ipynb) |
 | 2025 | Aufgabe 4: Bibertomograph | [bibertomograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Bibertomograph/bibertomograph_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
