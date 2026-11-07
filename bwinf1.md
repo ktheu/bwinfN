@@ -1,0 +1,27 @@
+# Python für die 1. Runde des Bundeswettbewerbs Informatik
+
+[← zur Startseite](readme.md)
+
+Hier entstehen Lösungsnotebooks zu den Aufgaben 1 bis 5 der 1. Runde des Bundeswettbewerbs Informatik. Die Junioraufgaben
+der 1. Runde stehen auf der Seite [Jugendwettbewerb, 3. Runde](jwinf3.md), denn sie sind zugleich die Aufgaben der 3. Runde
+des Jugendwettbewerbs.
+
+Jedes Lösungsnotebook enthält den Aufgabentext, die nützlichen Werkzeuge (Algorithmen und Python-Funktionen), die Lösungsidee
+und eine Schritt-für-Schritt-Lösung mit allen Beispielen. Zuerst kommt immer eine einfache, gut nachvollziehbare Lösung,
+schnellere Verfahren stehen am Ende unter „Für Neugierige“. **Bearbeite eine Aufgabe zuerst selbst** und sieh dir das
+Lösungsnotebook erst danach an.
+
+Die Notebooks laufen direkt im Browser mit [JupyterLite](https://jupyterlite.readthedocs.io/). Eine Codezelle führst du mit
+**Umschalt + Enter** aus.
+
+## Die Lösungsnotebooks
+
+| Jahr | Aufgabe | Lösungsnotebook |
+|---|---|---|
+| 2025 | Aufgabe 4: Bibertomograph | [bibertomograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Bibertomograph/bibertomograph_loesung.ipynb) |
+
+Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
+
+Eine Übersicht über die Werkzeuge, die man für die Aufgaben der 1. Runde braucht, kommt dazu, wenn die Aufgaben bearbeitet sind.
+
+[← zur Startseite](readme.md)
