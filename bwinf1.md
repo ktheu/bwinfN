@@ -14,12 +14,20 @@ Lösungsnotebook erst danach an.
 Die Notebooks laufen direkt im Browser mit [JupyterLite](https://jupyterlite.readthedocs.io/). Eine Codezelle führst du mit
 **Umschalt + Enter** aus.
 
+Einige Notebooks zeigen am Ende zusätzlich eine Lösung mit **MiniZinc**. Die MiniZinc-Modelle laufen nicht im Browser-Python,
+sondern in der [MiniZinc IDE](https://www.minizinc.org/) oder im [MiniZinc Playground](https://play.minizinc.org/). Wie man mit
+MiniZinc arbeitet, zeigen die Arbeitsblätter
+[Grundlagen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=minizinc_grundlagen.ipynb),
+[Daten](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=minizinc_daten.ipynb) und
+[Zuordnen und Planen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=minizinc_zuordnung.ipynb).
+
 ## Die Lösungsnotebooks
 
 | Jahr | Aufgabe | Lösungsnotebook |
 |---|---|---|
 | 2025 | Aufgabe 2: ChoreoGraph | [choreograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_ChoreoGraph/choreograph_loesung.ipynb) |
 | 2025 | Aufgabe 4: Bibertomograph | [bibertomograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Bibertomograph/bibertomograph_loesung.ipynb) |
+| 2025 | Aufgabe 5: Großstadtbauern | [grossstadtbauern_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Grossstadtbauern/grossstadtbauern_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
