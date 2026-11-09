@@ -25,7 +25,9 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 
 | Jahr | Aufgabe | Lösungsnotebook |
 |---|---|---|
+| 2025 | Aufgabe 1: Drehfreudig? | [drehfreudig_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Drehfreudig/drehfreudig_loesung.ipynb) |
 | 2025 | Aufgabe 2: ChoreoGraph | [choreograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_ChoreoGraph/choreograph_loesung.ipynb) |
+| 2025 | Aufgabe 3: Nasser Hund | [nasserhund_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_NasserHund/nasserhund_loesung.ipynb) |
 | 2025 | Aufgabe 4: Bibertomograph | [bibertomograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Bibertomograph/bibertomograph_loesung.ipynb) |
 | 2025 | Aufgabe 5: Großstadtbauern | [grossstadtbauern_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Grossstadtbauern/grossstadtbauern_loesung.ipynb) |
 
