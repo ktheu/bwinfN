@@ -18,9 +18,10 @@ Dokumentation, in 25 Notebooks und ab etwa Klasse 7 geeignet. Dazu **Lösungsnot
 **Lösungsnotebooks** zu den Aufgaben 1 bis 5 der 1. Runde, jeweils mit den nützlichen Werkzeugen, der Lösungsidee und einer
 Schritt-für-Schritt-Lösung. Diese Seite wächst noch.
 
-## Bundeswettbewerb Informatik, 2. Runde
+## [Bundeswettbewerb Informatik, 2. Runde](bwinf2.md)
 
-In Vorbereitung.
+**Lösungsnotebooks** zu Aufgaben der 2. Runde, mit einfachen Heuristiken und dem Vergleich zu den offiziellen Lösungshinweisen.
+Diese Seite wächst noch.
 
 ## Quellen
 
