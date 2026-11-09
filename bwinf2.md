@@ -18,7 +18,9 @@ installierten Python.
 
 | Jahr | Aufgabe | Lösungsnotebook |
 |---|---|---|
+| 2026 | Aufgabe 1: Transformers | [transformers_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/44_Transformers/transformers_loesung.ipynb) |
 | 2026 | Aufgabe 2: Gießroboter | [giessroboter_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/44_Giessroboter/giessroboter_loesung.ipynb) |
+| 2026 | Aufgabe 3: Lieferkette | [lieferkette_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/44_Lieferkette/lieferkette_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
