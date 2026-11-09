@@ -30,6 +30,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2025 | Aufgabe 3: Nasser Hund | [nasserhund_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_NasserHund/nasserhund_loesung.ipynb) |
 | 2025 | Aufgabe 4: Bibertomograph | [bibertomograph_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Bibertomograph/bibertomograph_loesung.ipynb) |
 | 2025 | Aufgabe 5: Großstadtbauern | [grossstadtbauern_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/44_Grossstadtbauern/grossstadtbauern_loesung.ipynb) |
+| 2024 | Aufgabe 1: Hopsitexte | [hopsitexte_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/43_Hopsitexte/hopsitexte_loesung.ipynb) |
 | 2024 | Aufgabe 2: Schwierigkeiten | [schwierigkeiten_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/43_Schwierigkeiten/schwierigkeiten_loesung.ipynb) |
 | 2024 | Aufgabe 5: Das ägyptische Grabmal | [aegyptischesgrabmal_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/43_AegyptischesGrabmal/aegyptischesgrabmal_loesung.ipynb) |
 
