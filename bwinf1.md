@@ -71,6 +71,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2017 | Aufgabe 4: Auto-Scrabble | [autoscrabble_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/36_AutoScrabble/autoscrabble_loesung.ipynb) |
 | 2017 | Aufgabe 5: Bauernopfer | [bauernopfer_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/36_Bauernopfer/bauernopfer_loesung.ipynb) |
 | 2016 | Aufgabe 1: Sprichwort | [sprichwort_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/35_Sprichwort/sprichwort_loesung.ipynb) |
+| 2016 | Aufgabe 2: Rhinozelfant | [rhinozelfant_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/35_Rhinozelfant/rhinozelfant_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
