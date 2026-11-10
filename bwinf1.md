@@ -51,6 +51,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2021 | Aufgabe 4: Würfelglück | [wuerfelglueck_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/40_Wuerfelglueck/wuerfelglueck_loesung.ipynb) |
 | 2021 | Aufgabe 5: Marktwaage | [marktwaage_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/40_Marktwaage/marktwaage_loesung.ipynb) |
 | 2020 | Aufgabe 1: Wörter aufräumen | [woerteraufraeumen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/39_WoerterAufraeumen/woerteraufraeumen_loesung.ipynb) |
+| 2020 | Aufgabe 2: Dreieckspuzzle | [dreieckspuzzle_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/39_Dreieckspuzzle/dreieckspuzzle_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
