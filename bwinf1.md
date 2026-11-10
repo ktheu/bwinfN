@@ -36,6 +36,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2024 | Aufgabe 4: Krocket | [krocket_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/43_Krocket/krocket_loesung.ipynb) |
 | 2024 | Aufgabe 5: Das ägyptische Grabmal | [aegyptischesgrabmal_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/43_AegyptischesGrabmal/aegyptischesgrabmal_loesung.ipynb) |
 | 2023 | Aufgabe 1: Arukone | [arukone_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/42_Arukone/arukone_loesung.ipynb) |
+| 2023 | Aufgabe 2: Die goldene Mitte | [goldene_mitte_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/42_DieGoldeneMitte/goldene_mitte_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
