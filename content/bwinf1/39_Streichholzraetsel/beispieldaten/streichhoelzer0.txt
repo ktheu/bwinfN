@@ -1,0 +1,10 @@
+# Streichholzrätsel, von Hand aus streichhoelzerN.png übertragen. Format siehe Lösungsnotebook:
+# je Zeile "Anfahrt | Streichhölzer", Winkel in Grad (0 = nach rechts, 90 = nach oben), eine Streichholzlänge je Schritt.
+vorher
+| 0 90 180 270
+90 | 60 300
+90 60 | 90
+nachher
+| 90 60 300 270 120
+| 60
+60 | 90
