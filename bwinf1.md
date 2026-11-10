@@ -39,6 +39,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2023 | Aufgabe 2: Die goldene Mitte | [goldene_mitte_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/42_DieGoldeneMitte/goldene_mitte_loesung.ipynb) |
 | 2023 | Aufgabe 3: Zauberschule | [zauberschule_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/42_Zauberschule/zauberschule_loesung.ipynb) |
 | 2023 | Aufgabe 4: Nandu | [nandu_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/42_Nandu/nandu_loesung.ipynb) |
+| 2023 | Aufgabe 5: Stadtführung | [stadtfuehrung_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/42_Stadtfuehrung/stadtfuehrung_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
