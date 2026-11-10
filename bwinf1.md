@@ -64,6 +64,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2018 | Aufgabe 2: Twist | [twist_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/37_Twist/twist_loesung.ipynb) |
 | 2018 | Aufgabe 3: Voll daneben | [voll_daneben_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/37_VollDaneben/voll_daneben_loesung.ipynb) |
 | 2018 | Aufgabe 4: Schrebergärten | [schrebergaerten_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/37_Schrebergaerten/schrebergaerten_loesung.ipynb) |
+| 2018 | Aufgabe 5: Widerstand | [widerstand_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/37_Widerstand/widerstand_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
