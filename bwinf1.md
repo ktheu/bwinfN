@@ -55,6 +55,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2020 | Aufgabe 3: Tobis Turnier | [tobisturnier_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/39_TobisTurnier/tobisturnier_loesung.ipynb) |
 | 2020 | Aufgabe 4: Streichholzrätsel | [streichholzraetsel_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/39_Streichholzraetsel/streichholzraetsel_loesung.ipynb) |
 | 2020 | Aufgabe 5: Wichteln | [wichteln_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/39_Wichteln/wichteln_loesung.ipynb) |
+| 2019 | Aufgabe 1: Blumenbeet | [blumenbeet_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/38_Blumenbeet/blumenbeet_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
