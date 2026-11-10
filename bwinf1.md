@@ -45,6 +45,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2022 | Aufgabe 3: Sudokopie | [sudokopie_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/41_Sudokopie/sudokopie_loesung.ipynb) |
 | 2022 | Aufgabe 4: Fahrradwerkstatt | [fahrradwerkstatt_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/41_Fahrradwerkstatt/fahrradwerkstatt_loesung.ipynb) |
 | 2022 | Aufgabe 5: Hüpfburg | [huepfburg_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/41_Huepfburg/huepfburg_loesung.ipynb) |
+| 2021 | Aufgabe 1: Schiebeparkplatz | [schiebeparkplatz_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/40_Schiebeparkplatz/schiebeparkplatz_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
