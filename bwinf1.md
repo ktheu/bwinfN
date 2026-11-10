@@ -69,6 +69,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2017 | Aufgabe 2: Schwimmbad | [schwimmbad_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/36_Schwimmbad/schwimmbad_loesung.ipynb) |
 | 2017 | Aufgabe 3: Dreiecke zählen | [dreieckezaehlen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/36_DreieckeZaehlen/dreieckezaehlen_loesung.ipynb) |
 | 2017 | Aufgabe 4: Auto-Scrabble | [autoscrabble_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/36_AutoScrabble/autoscrabble_loesung.ipynb) |
+| 2017 | Aufgabe 5: Bauernopfer | [bauernopfer_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/36_Bauernopfer/bauernopfer_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
