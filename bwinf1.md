@@ -59,6 +59,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2019 | Aufgabe 2: Nummernmerker | [nummernmerker_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/38_Nummernmerker/nummernmerker_loesung.ipynb) |
 | 2019 | Aufgabe 3: Telepaartie | [telepaartie_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/38_Telepaartie/telepaartie_loesung.ipynb) |
 | 2019 | Aufgabe 4: Urlaubsfahrt | [urlaubsfahrt_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/38_Urlaubsfahrt/urlaubsfahrt_loesung.ipynb) |
+| 2019 | Aufgabe 5: Rominos | [rominos_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/38_Rominos/rominos_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
