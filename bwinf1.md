@@ -75,6 +75,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2016 | Aufgabe 3: Rotation | [rotation_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/35_Rotation/rotation_loesung.ipynb) |
 | 2016 | Aufgabe 4: Radfahrspaß | [radfahrspass_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/35_Radfahrspass/radfahrspass_loesung.ipynb) |
 | 2016 | Aufgabe 5: Buhnenrennen | [buhnenrennen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/35_Buhnenrennen/buhnenrennen_loesung.ipynb) |
+| 2015 | Aufgabe 1: Kassiopeias Weg | [kassiopeiasweg_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/34_KassiopeiasWeg/kassiopeiasweg_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
