@@ -48,6 +48,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2021 | Aufgabe 1: Schiebeparkplatz | [schiebeparkplatz_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/40_Schiebeparkplatz/schiebeparkplatz_loesung.ipynb) |
 | 2021 | Aufgabe 2: Vollgeladen | [vollgeladen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/40_Vollgeladen/vollgeladen_loesung.ipynb) |
 | 2021 | Aufgabe 3: Wortsuche | [wortsuche_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/40_Wortsuche/wortsuche_loesung.ipynb) |
+| 2021 | Aufgabe 4: Würfelglück | [wuerfelglueck_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/40_Wuerfelglueck/wuerfelglueck_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
