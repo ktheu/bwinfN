@@ -78,6 +78,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2015 | Aufgabe 1: Kassiopeias Weg | [kassiopeiasweg_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/34_KassiopeiasWeg/kassiopeiasweg_loesung.ipynb) |
 | 2015 | Aufgabe 2: Ameisenfutter | [ameisenfutter_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/34_Ameisenfutter/ameisenfutter_loesung.ipynb) |
 | 2015 | Aufgabe 3: Flaschenzug | [flaschenzug_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/34_Flaschenzug/flaschenzug_loesung.ipynb) |
+| 2015 | Aufgabe 4: Schlüssellöcher | [schluesselloecher_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/34_Schluesselloecher/schluesselloecher_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
