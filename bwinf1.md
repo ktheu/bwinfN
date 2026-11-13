@@ -81,6 +81,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2015 | Aufgabe 4: Schlüssellöcher | [schluesselloecher_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/34_Schluesselloecher/schluesselloecher_loesung.ipynb) |
 | 2015 | Aufgabe 5: Groker | [groker_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/34_Groker/groker_loesung.ipynb) |
 | 2014 | Aufgabe 1: Faires Füllen | [fairesfuellen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/33_FairesFuellen/fairesfuellen_loesung.ipynb) |
+| 2014 | Aufgabe 2: Mobile | [mobile_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/33_Mobile/mobile_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
