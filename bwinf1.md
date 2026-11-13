@@ -83,6 +83,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2014 | Aufgabe 1: Faires Füllen | [fairesfuellen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/33_FairesFuellen/fairesfuellen_loesung.ipynb) |
 | 2014 | Aufgabe 2: Mobile | [mobile_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/33_Mobile/mobile_loesung.ipynb) |
 | 2014 | Aufgabe 3: Buffet-Lotterie | [buffetlotterie_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/33_BuffetLotterie/buffetlotterie_loesung.ipynb) |
+| 2014 | Aufgabe 4: Alphametiken | [alphametiken_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/33_Alphametiken/alphametiken_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
