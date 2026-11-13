@@ -1,0 +1,15 @@
+5
+4
+Di 8:00
+Di 13:00
+Mi 8:00
+Mi 13:00
+Do 8:00
+Helge
+Andrea
+René
+Denniz
+XX---
+XX---
+--XX-
+---XX

@@ -1,0 +1,34 @@
+14
+9
+Termin 1
+Termin 2
+Termin 3
+Termin 4
+Termin 5
+Termin 6
+Termin 7
+Termin 8
+Termin 9
+Termin 10
+Termin 11
+Termin 12
+Termin 13
+Termin 14
+T1
+T2
+T3
+T4
+T5
+T6
+T7
+T8
+T9
+XX----X------X
+-XX----XXX-XXX
+XX-X--X------X
+-X---X----XX-X
+--XXX---------
+X--X-----XXXX-
+-------X-X-X--
+X------X-XX---
+--X---X---X-X-
