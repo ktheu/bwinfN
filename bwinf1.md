@@ -87,6 +87,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2014 | Aufgabe 5: Pong | [pong_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/33_Pong/pong_loesung.ipynb) |
 | 2013 | Aufgabe 1: Rationalisierung | [rationalisierung_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/32_Rationalisierung/rationalisierung_loesung.ipynb) |
 | 2013 | Aufgabe 2: Tutorien | [tutorien_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/32_Tutorien/tutorien_loesung.ipynb) |
+| 2013 | Aufgabe 3: Vortänzer | [vortaenzer_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/32_Vortaenzer/vortaenzer_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
