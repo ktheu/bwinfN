@@ -1,0 +1,2 @@
+# Spirale von außen nach innen (42 Ringel); der Anfang liegt außen (R = rechts, L = links, O = oben, U = unten)
+RRRRRROOOOOOLLLLLUUUUURRRROOOOLLLUUURROOLU

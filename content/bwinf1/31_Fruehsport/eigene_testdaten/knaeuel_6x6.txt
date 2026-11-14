@@ -1,0 +1,2 @@
+# Dichtes Knäuel in einem 6x6-Feld (35 Ringel), beide Enden innen
+OOLUUURRULLURRRORUROOLOROOLULOLUURU

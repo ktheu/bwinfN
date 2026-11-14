@@ -1,0 +1,2 @@
+# Dichtes Knäuel in einem 4x4-Feld (15 Ringel), beide Enden innen (R rechts, L links, O oben, U unten)
+LOOLUUURRROOOLU
