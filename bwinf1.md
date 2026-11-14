@@ -91,6 +91,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2013 | Aufgabe 4: Fotoforensik | [fotoforensik_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/32_Fotoforensik/fotoforensik_loesung.ipynb) |
 | 2013 | Aufgabe 5: Versteigerung | [versteigerung_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/32_Versteigerung/versteigerung_loesung.ipynb) |
 | 2012 | Aufgabe 1: Frühsport | [fruehsport_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/31_Fruehsport/fruehsport_loesung.ipynb) |
+| 2012 | Aufgabe 2: Geldtransporter | [geldtransporter_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/31_Geldtransporter/geldtransporter_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
