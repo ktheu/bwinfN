@@ -97,6 +97,7 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 | 2012 | Aufgabe 5: Kaffeerunde | [kaffeerunde_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/31_Kaffeerunde/kaffeerunde_loesung.ipynb) |
 | 2011 | Aufgabe 1: Wer spielt fair? | [werspieltfair_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/30_WerSpieltFair/werspieltfair_loesung.ipynb) |
 | 2011 | Aufgabe 2: Aladins Lampen | [aladinslampen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/30_AladinsLampen/aladinslampen_loesung.ipynb) |
+| 2011 | Aufgabe 3: Fehlerfrei puzzeln | [fehlerfreipuzzeln_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf1/30_FehlerfreiPuzzeln/fehlerfreipuzzeln_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
