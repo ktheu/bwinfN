@@ -1,6 +1,6 @@
-# Die Junioraufgaben von 2011 bis 2025: Überblick und Schwierigkeit
+# Die Junioraufgaben des 30. bis 44. Wettbewerbs (2011/12 bis 2025/26): Überblick und Schwierigkeit
 
-Hier stehen alle 30 Junioraufgaben aus den Jahren 2011 bis 2025 (30. bis 44. Bundeswettbewerb Informatik; ab 2018 sind sie
+Hier stehen alle 30 Junioraufgaben aus dem 30. bis 44. Bundeswettbewerb Informatik (2011/12 bis 2025/26; ab 2018 sind sie
 zugleich die 3. Runde des Jugendwettbewerbs). Zu jeder Aufgabe findest du:
 
 - **worum es geht** (in einem Satz),
@@ -26,38 +26,38 @@ als eine Geometrie-Aufgabe, und umgekehrt.
 
 ## Überblick
 
-| Schwierigkeit | Aufgabe | Jahr | Kernwerkzeuge |
+| Schwierigkeit | Aufgabe | BwInf | Kernwerkzeuge |
 |---|---|---|---|
-| ★ | Passwörter | 2020 | Zufall, Texte zusammensetzen |
-| ★★ | Wundertüte | 2023 | `//` und `%`, reihum verteilen |
-| ★★ | Bällebad | 2025 | Tabelle (Nutzungsplan), Maximum |
-| ★★ | Texthopsen | 2024 | Texte filtern, `while`, Simulation |
-| ★★ | Auf und Ab | 2018 | Simulation, Wörterbuch, Endlosschleife erkennen |
-| ★★ | Baywatch | 2018 | Rechnen im Kreis, Vergleich mit Lücken |
-| ★★ | Parallelen | 2019 | Wörter und Buchstaben zählen, Sprünge |
-| ★★ | Zum Winde verweht | 2021 | Abstand, Minimum |
-| ★★ | Container | 2022 | Mengen, Ausscheiden |
-| ★★ | St. Egano | 2023 | Pixel lesen, `%`, `chr` |
-| ★★ | Landnahme | 2015 | Rechtecke überschneiden |
-| ★★ | Skyline | 2012 | Abstand Punkt–Rechteck, ganzzahlig rechnen |
-| ★★ | Bücherregal | 2017 | Sortieren, gierige Strategie |
-| ★★ | Zahlenspiel | 2014 | ggT, alle Möglichkeiten, Zufall |
-| ★★ | Songwriter | 2013 | Zufall, Texte nach Regeln bauen |
-| ★★ | LAMA | 2016 | Raster, Nachbarn umschalten |
-| ★★★ | Treffsicherheit | 2021 | Tabelle, Zählen, eine wichtige Einsicht |
-| ★★★ | Quadratisch, praktisch, grün | 2024 | alle Möglichkeiten, Maß festlegen, Laufzeit |
-| ★★★ | Silbentrennung | 2025 | Regeln nacheinander, Bewertung, eigene Regeln |
-| ★★★ | Reimerei | 2022 | Vokalgruppen, alle Paare oder Gruppieren |
-| ★★★ | Baulwürfe | 2020 | Raster, Muster suchen, Doppelzählung |
-| ★★★ | Fähre füllen | 2014 | Strategien erfinden und vergleichen |
-| ★★★ | Verben | 2012 | Regeln auf Texten, Grenzen zeigen |
-| ★★★ | Kassiopeia | 2015 | Erreichbarkeit (Flood Fill) |
-| ★★★ | Wintervorrat | 2017 | Simulation im Raster, Zeitlücken |
-| ★★★ | Zollstock | 2013 | Modellieren, alle Möglichkeiten, Simulation |
-| ★★★ | Rechteckschoner | 2011 | Rekursion, Zeichnen, Zufall |
-| ★★★★ | Kacheln | 2019 | Gruppen gleicher Felder, Widersprüche erkennen |
-| ★★★★ | Luftballons | 2016 | Simulation einer Maschine, beste Auswahl (Teilmengen) |
-| ★★★★ | Glücksrad | 2011 | Wahrscheinlichkeiten, alle Folgen rekursiv, Brüche |
+| ★ | Passwörter | 39. (2020/21) | Zufall, Texte zusammensetzen |
+| ★★ | Wundertüte | 42. (2023/24) | `//` und `%`, reihum verteilen |
+| ★★ | Bällebad | 44. (2025/26) | Tabelle (Nutzungsplan), Maximum |
+| ★★ | Texthopsen | 43. (2024/25) | Texte filtern, `while`, Simulation |
+| ★★ | Auf und Ab | 37. (2018/19) | Simulation, Wörterbuch, Endlosschleife erkennen |
+| ★★ | Baywatch | 37. (2018/19) | Rechnen im Kreis, Vergleich mit Lücken |
+| ★★ | Parallelen | 38. (2019/20) | Wörter und Buchstaben zählen, Sprünge |
+| ★★ | Zum Winde verweht | 40. (2021/22) | Abstand, Minimum |
+| ★★ | Container | 41. (2022/23) | Mengen, Ausscheiden |
+| ★★ | St. Egano | 42. (2023/24) | Pixel lesen, `%`, `chr` |
+| ★★ | Landnahme | 34. (2015/16) | Rechtecke überschneiden |
+| ★★ | Skyline | 31. (2012/13) | Abstand Punkt–Rechteck, ganzzahlig rechnen |
+| ★★ | Bücherregal | 36. (2017/18) | Sortieren, gierige Strategie |
+| ★★ | Zahlenspiel | 33. (2014/15) | ggT, alle Möglichkeiten, Zufall |
+| ★★ | Songwriter | 32. (2013/14) | Zufall, Texte nach Regeln bauen |
+| ★★ | LAMA | 35. (2016/17) | Raster, Nachbarn umschalten |
+| ★★★ | Treffsicherheit | 40. (2021/22) | Tabelle, Zählen, eine wichtige Einsicht |
+| ★★★ | Quadratisch, praktisch, grün | 43. (2024/25) | alle Möglichkeiten, Maß festlegen, Laufzeit |
+| ★★★ | Silbentrennung | 44. (2025/26) | Regeln nacheinander, Bewertung, eigene Regeln |
+| ★★★ | Reimerei | 41. (2022/23) | Vokalgruppen, alle Paare oder Gruppieren |
+| ★★★ | Baulwürfe | 39. (2020/21) | Raster, Muster suchen, Doppelzählung |
+| ★★★ | Fähre füllen | 33. (2014/15) | Strategien erfinden und vergleichen |
+| ★★★ | Verben | 31. (2012/13) | Regeln auf Texten, Grenzen zeigen |
+| ★★★ | Kassiopeia | 34. (2015/16) | Erreichbarkeit (Flood Fill) |
+| ★★★ | Wintervorrat | 36. (2017/18) | Simulation im Raster, Zeitlücken |
+| ★★★ | Zollstock | 32. (2013/14) | Modellieren, alle Möglichkeiten, Simulation |
+| ★★★ | Rechteckschoner | 30. (2011/12) | Rekursion, Zeichnen, Zufall |
+| ★★★★ | Kacheln | 38. (2019/20) | Gruppen gleicher Felder, Widersprüche erkennen |
+| ★★★★ | Luftballons | 35. (2016/17) | Simulation einer Maschine, beste Auswahl (Teilmengen) |
+| ★★★★ | Glücksrad | 30. (2011/12) | Wahrscheinlichkeiten, alle Folgen rekursiv, Brüche |
 
 ---
 
