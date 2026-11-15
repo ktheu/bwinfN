@@ -24,6 +24,7 @@ installierten Python.
 | 43. (2024/25) | Aufgabe 1: Schmucknachrichten | [schmucknachrichten_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/43_Schmucknachrichten/schmucknachrichten_loesung.ipynb) |
 | 43. (2024/25) | Aufgabe 2: Simultane Labyrinthe | [simultanelabyrinthe_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/43_SimultaneLabyrinthe/simultanelabyrinthe_loesung.ipynb) |
 | 43. (2024/25) | Aufgabe 3: Konfetti | [konfetti_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/43_Konfetti/konfetti_loesung.ipynb) |
+| 42. (2023/24) | Aufgabe 3: Die Siedler | [siedler_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/42_DieSiedler/siedler_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
