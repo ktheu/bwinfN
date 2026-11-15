@@ -3,7 +3,7 @@
 [← zur Startseite](readme.md)
 
 Diese Seite enthält einen **Lehrgang**, der von Blockly zu Python führt, und **Lösungsnotebooks** zu allen
-Junioraufgaben der Jahre 2011 bis 2025. Der Lehrgang richtet sich an alle, die im Jugendwettbewerb Informatik schon mit
+Junioraufgaben des 30. bis 44. Wettbewerbs (2011/12 bis 2025/26). Der Lehrgang richtet sich an alle, die im Jugendwettbewerb Informatik schon mit
 Blockly programmiert haben und nun die Aufgaben der 3. Runde (zugleich die Junioraufgaben der 1. Runde des Bundeswettbewerbs
 Informatik) in Python lösen möchten. Er beginnt ganz von vorn und ist ab etwa Klasse 7 geeignet.
 
@@ -92,7 +92,7 @@ Reihenfolge vor.
 
 ## Die Lösungsnotebooks
 
-Zu jeder Junioraufgabe der Jahre 2011 bis 2025 gibt es ein Lösungsnotebook. Es enthält den Aufgabentext, die nützlichen
+Zu jeder Junioraufgabe des 30. bis 44. Wettbewerbs (2011/12 bis 2025/26) gibt es ein Lösungsnotebook. Es enthält den Aufgabentext, die nützlichen
 Werkzeuge, die Lösungsidee und eine Schritt-für-Schritt-Lösung mit allen Beispielen. Zuerst kommt immer die einfachste
 Lösung, schnellere Verfahren stehen am Ende unter „Für Neugierige“. **Bearbeite eine Aufgabe zuerst selbst** und sieh dir das
 Lösungsnotebook erst danach an. Die Sterne geben eine grobe Einschätzung der Schwierigkeit (★ leicht bis ★★★★ schwer, Erklärung
@@ -100,37 +100,37 @@ in der Aufgabenliste).
 
 
 
-| Jahr | Aufgabe | Schwierigkeit | Lösungsnotebook |
+| BwInf | Aufgabe | Schwierigkeit | Lösungsnotebook |
 |---|---|---|---|
-| 2025 | Bällebad | ★★ | [baellebad_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/44_Baellebad/baellebad_loesung.ipynb) |
-| 2025 | Silbentrennung | ★★★ | [silbentrennung_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/44_Silbentrennung/silbentrennung_loesung.ipynb) |
-| 2024 | Quadratisch, praktisch, grün | ★★★ | [quadratisch_praktisch_gruen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/43_QuadratischPraktischGr%C3%BCn/quadratisch_praktisch_gruen_loesung.ipynb) |
-| 2024 | Texthopsen | ★★ | [texthopsen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/43_Texthopsen/texthopsen_loesung.ipynb) |
-| 2023 | St. Egano | ★★ | [stegano_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/42_StEgano/stegano_loesung.ipynb) |
-| 2023 | Wundertüte | ★★ | [wundertuete_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/42_Wundertuete/wundertuete_loesung.ipynb) |
-| 2022 | Container | ★★ | [container_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/41_Container/container_loesung.ipynb) |
-| 2022 | Reimerei | ★★★ | [reimerei_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/41_Reimerei/reimerei_loesung.ipynb) |
-| 2021 | Treffsicherheit | ★★★ | [treffsicherheit_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/40_Treffsicherheit/treffsicherheit_loesung.ipynb) |
-| 2021 | Zum Winde verweht | ★★ | [zumwindeverweht_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/40_ZumWindeVerweht/zumwindeverweht_loesung.ipynb) |
-| 2020 | Baulwürfe | ★★★ | [baulwuerfe_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/39_Baulwuerfe/baulwuerfe_loesung.ipynb) |
-| 2020 | Passwörter | ★ | [passwoerter_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/39_Passwoerter/passwoerter_loesung.ipynb) |
-| 2019 | Kacheln | ★★★★ | [kacheln_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/38_Kacheln/kacheln_loesung.ipynb) |
-| 2019 | Parallelen | ★★ | [parallelen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/38_Parallelen/parallelen_loesung.ipynb) |
-| 2018 | Auf und Ab | ★★ | [aufundab_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/37_AufUndAb/aufundab_loesung.ipynb) |
-| 2018 | Baywatch | ★★ | [baywatch_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/37_Baywatch/baywatch_loesung.ipynb) |
-| 2017 | Bücherregal | ★★ | [buecherregal_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/36_Buecherregal/buecherregal_loesung.ipynb) |
-| 2017 | Wintervorrat | ★★★ | [wintervorrat_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/36_Wintervorrat/wintervorrat_loesung.ipynb) |
-| 2016 | LAMA | ★★ | [lama_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/35_LAMA/lama_loesung.ipynb) |
-| 2016 | Luftballons | ★★★★ | [luftballons_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/35_Luftballons/luftballons_loesung.ipynb) |
-| 2015 | Kassiopeia | ★★★ | [kassiopeia_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/34_Kassiopeia/kassiopeia_loesung.ipynb) |
-| 2015 | Landnahme | ★★ | [landnahme_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/34_Landnahme/landnahme_loesung.ipynb) |
-| 2014 | Fähre füllen | ★★★ | [faehrefuellen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/33_FaehreFuellen/faehrefuellen_loesung.ipynb) |
-| 2014 | Zahlenspiel | ★★ | [zahlenspiel_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/33_Zahlenspiel/zahlenspiel_loesung.ipynb) |
-| 2013 | Songwriter | ★★ | [songwriter_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/32_Songwriter/songwriter_loesung.ipynb) |
-| 2013 | Zollstock | ★★★ | [zollstock_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/32_Zollstock/zollstock_loesung.ipynb) |
-| 2012 | Skyline | ★★ | [skyline_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/31_Skyline/skyline_loesung.ipynb) |
-| 2012 | Verben | ★★★ | [verben_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/31_Verben/verben_loesung.ipynb) |
-| 2011 | Glücksrad | ★★★★ | [gluecksrad_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/30_Gluecksrad/gluecksrad_loesung.ipynb) |
-| 2011 | Rechteckschoner | ★★★ | [rechteckschoner_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/30_Rechteckschoner/rechteckschoner_loesung.ipynb) |
+| 44. (2025/26) | Bällebad | ★★ | [baellebad_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/44_Baellebad/baellebad_loesung.ipynb) |
+| 44. (2025/26) | Silbentrennung | ★★★ | [silbentrennung_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/44_Silbentrennung/silbentrennung_loesung.ipynb) |
+| 43. (2024/25) | Quadratisch, praktisch, grün | ★★★ | [quadratisch_praktisch_gruen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/43_QuadratischPraktischGr%C3%BCn/quadratisch_praktisch_gruen_loesung.ipynb) |
+| 43. (2024/25) | Texthopsen | ★★ | [texthopsen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/43_Texthopsen/texthopsen_loesung.ipynb) |
+| 42. (2023/24) | St. Egano | ★★ | [stegano_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/42_StEgano/stegano_loesung.ipynb) |
+| 42. (2023/24) | Wundertüte | ★★ | [wundertuete_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/42_Wundertuete/wundertuete_loesung.ipynb) |
+| 41. (2022/23) | Container | ★★ | [container_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/41_Container/container_loesung.ipynb) |
+| 41. (2022/23) | Reimerei | ★★★ | [reimerei_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/41_Reimerei/reimerei_loesung.ipynb) |
+| 40. (2021/22) | Treffsicherheit | ★★★ | [treffsicherheit_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/40_Treffsicherheit/treffsicherheit_loesung.ipynb) |
+| 40. (2021/22) | Zum Winde verweht | ★★ | [zumwindeverweht_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/40_ZumWindeVerweht/zumwindeverweht_loesung.ipynb) |
+| 39. (2020/21) | Baulwürfe | ★★★ | [baulwuerfe_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/39_Baulwuerfe/baulwuerfe_loesung.ipynb) |
+| 39. (2020/21) | Passwörter | ★ | [passwoerter_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/39_Passwoerter/passwoerter_loesung.ipynb) |
+| 38. (2019/20) | Kacheln | ★★★★ | [kacheln_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/38_Kacheln/kacheln_loesung.ipynb) |
+| 38. (2019/20) | Parallelen | ★★ | [parallelen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/38_Parallelen/parallelen_loesung.ipynb) |
+| 37. (2018/19) | Auf und Ab | ★★ | [aufundab_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/37_AufUndAb/aufundab_loesung.ipynb) |
+| 37. (2018/19) | Baywatch | ★★ | [baywatch_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/37_Baywatch/baywatch_loesung.ipynb) |
+| 36. (2017/18) | Bücherregal | ★★ | [buecherregal_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/36_Buecherregal/buecherregal_loesung.ipynb) |
+| 36. (2017/18) | Wintervorrat | ★★★ | [wintervorrat_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/36_Wintervorrat/wintervorrat_loesung.ipynb) |
+| 35. (2016/17) | LAMA | ★★ | [lama_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/35_LAMA/lama_loesung.ipynb) |
+| 35. (2016/17) | Luftballons | ★★★★ | [luftballons_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/35_Luftballons/luftballons_loesung.ipynb) |
+| 34. (2015/16) | Kassiopeia | ★★★ | [kassiopeia_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/34_Kassiopeia/kassiopeia_loesung.ipynb) |
+| 34. (2015/16) | Landnahme | ★★ | [landnahme_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/34_Landnahme/landnahme_loesung.ipynb) |
+| 33. (2014/15) | Fähre füllen | ★★★ | [faehrefuellen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/33_FaehreFuellen/faehrefuellen_loesung.ipynb) |
+| 33. (2014/15) | Zahlenspiel | ★★ | [zahlenspiel_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/33_Zahlenspiel/zahlenspiel_loesung.ipynb) |
+| 32. (2013/14) | Songwriter | ★★ | [songwriter_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/32_Songwriter/songwriter_loesung.ipynb) |
+| 32. (2013/14) | Zollstock | ★★★ | [zollstock_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/32_Zollstock/zollstock_loesung.ipynb) |
+| 31. (2012/13) | Skyline | ★★ | [skyline_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/31_Skyline/skyline_loesung.ipynb) |
+| 31. (2012/13) | Verben | ★★★ | [verben_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/31_Verben/verben_loesung.ipynb) |
+| 30. (2011/12) | Glücksrad | ★★★★ | [gluecksrad_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/30_Gluecksrad/gluecksrad_loesung.ipynb) |
+| 30. (2011/12) | Rechteckschoner | ★★★ | [rechteckschoner_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=jwinf3/30_Rechteckschoner/rechteckschoner_loesung.ipynb) |
 
 [← zur Startseite](readme.md)

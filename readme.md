@@ -10,8 +10,8 @@ auf einem anderen Gerät siehst du wieder die ursprüngliche Fassung.
 ## [Jugendwettbewerb Informatik, 3. Runde](jwinf3.md)
 
 Ein **Lehrgang**, der von Blockly zu Python führt: von den ersten Schritten über die typischen Werkzeuge der 3. Runde bis zur
-Dokumentation, in 25 Notebooks und ab etwa Klasse 7 geeignet. Dazu **Lösungsnotebooks** zu allen Junioraufgaben von 2011 bis
-2025 und eine Übersicht über die Aufgaben mit ihrer Schwierigkeit.
+Dokumentation, in 25 Notebooks und ab etwa Klasse 7 geeignet. Dazu **Lösungsnotebooks** zu allen Junioraufgaben des 30. bis 44. Wettbewerbs (2011/12 bis
+2025/26) und eine Übersicht über die Aufgaben mit ihrer Schwierigkeit.
 
 ## [Bundeswettbewerb Informatik, 1. Runde](bwinf1.md)
 
