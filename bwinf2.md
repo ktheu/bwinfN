@@ -28,6 +28,7 @@ installierten Python.
 | 42. (2023/24) | Aufgabe 2: Stilvolle Päckchen | [paeckchen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/42_StilvollePaeckchen/paeckchen_loesung.ipynb) |
 | 42. (2023/24) | Aufgabe 3: Die Siedler | [siedler_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/42_DieSiedler/siedler_loesung.ipynb) |
 | 41. (2022/23) | Aufgabe 2: Alles Käse | [kaese_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/41_AllesKaese/kaese_loesung.ipynb) |
+| 41. (2022/23) | Aufgabe 3: Pancake Sort | [pancake_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/41_PancakeSort/pancake_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
