@@ -1,0 +1,10 @@
+# Von Hand aus den Lösungshinweisen (aufgaben/loesungshinweise402.txt, Abschnitt 2.2 Beispiele) abgeschrieben.
+# Zeile: Ziffern, dahinter nach "=" das dort genannte Ergebnis. Anzahl Operatoren: 3, 5, 8, 10, 12, 15, 18, 20.
+2 3 2 6 = 6
+4 5 4 7 2 5 = 11
+4 3 2 4 3 3 2 3 3 = 110
+4 9 3 7 7 3 2 3 2 3 8 = 353
+2 3 2 9 8 5 9 7 2 7 8 3 8 = 1521
+6 5 4 7 6 9 3 3 3 3 7 8 2 3 6 3 = 6295
+4 3 4 2 8 3 6 3 4 3 8 3 7 7 2 3 2 7 4 = 17464
+2 7 6 9 2 3 2 2 2 3 2 3 8 3 6 3 2 7 4 4 2 = 19330

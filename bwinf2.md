@@ -31,6 +31,7 @@ installierten Python.
 | 41. (2022/23) | Aufgabe 2: Alles Käse | [kaese_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/41_AllesKaese/kaese_loesung.ipynb) |
 | 41. (2022/23) | Aufgabe 3: Pancake Sort | [pancake_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/41_PancakeSort/pancake_loesung.ipynb) |
 | 40. (2021/22) | Aufgabe 1: Müllabfuhr | [muellabfuhr_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/40_Muellabfuhr/muellabfuhr_loesung.ipynb) |
+| 40. (2021/22) | Aufgabe 2: Rechenrätsel | [rechenraetsel_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/40_Rechenraetsel/rechenraetsel_loesung.ipynb) |
 | 40. (2021/22) | Aufgabe 3: Hex-Max | [hexmax_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/40_HexMax/hexmax_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
