@@ -37,6 +37,7 @@ installierten Python.
 | 39. (2020/21) | Aufgabe 1: Flohmarkt in Langdorf | [flohmarkt_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/39_FlohmarktInLangdorf/flohmarkt_loesung.ipynb) |
 | 39. (2020/21) | Aufgabe 2: Spießgesellen | [spiesse_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/39_Spiessgesellen/spiesse_loesung.ipynb) |
 | 39. (2020/21) | Aufgabe 3: Eisbudendilemma | [eisbuden_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/39_Eisbudendilemma/eisbuden_loesung.ipynb) |
+| 38. (2019/20) | Aufgabe 3: Abbiegen? | [abbiegen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/38_Abbiegen/abbiegen_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
