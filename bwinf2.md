@@ -40,6 +40,7 @@ installierten Python.
 | 38. (2019/20) | Aufgabe 1: Stromrallye | [stromrallye_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/38_Stromrallye/stromrallye_loesung.ipynb) |
 | 38. (2019/20) | Aufgabe 2: Geburtstag | [geburtstag_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/38_Geburtstag/geburtstag_loesung.ipynb) |
 | 38. (2019/20) | Aufgabe 3: Abbiegen? | [abbiegen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/38_Abbiegen/abbiegen_loesung.ipynb) |
+| 37. (2018/19) | Aufgabe 2: Dreiecksbeziehungen | [dreiecke_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/37_Dreiecksbeziehungen/dreiecke_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
