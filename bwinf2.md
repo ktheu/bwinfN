@@ -34,6 +34,7 @@ installierten Python.
 | 40. (2021/22) | Aufgabe 2: Rechenrätsel | [rechenraetsel_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/40_Rechenraetsel/rechenraetsel_loesung.ipynb) |
 | 40. (2021/22) | Aufgabe 3: Hex-Max | [hexmax_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/40_HexMax/hexmax_loesung.ipynb) |
 | 40. (2021/22) | Bonusaufgabe: Zara Zackigs Zurückkehr | [zarazackig_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/40_ZaraZackigsZurueckkehr/zarazackig_loesung.ipynb) |
+| 39. (2020/21) | Aufgabe 1: Flohmarkt in Langdorf | [flohmarkt_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/39_FlohmarktInLangdorf/flohmarkt_loesung.ipynb) |
 | 39. (2020/21) | Aufgabe 3: Eisbudendilemma | [eisbuden_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/39_Eisbudendilemma/eisbuden_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
