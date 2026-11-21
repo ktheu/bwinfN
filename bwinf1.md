@@ -24,6 +24,17 @@ MiniZinc arbeitet, zeigen die Arbeitsblätter
 [Daten](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=minizinc_daten.ipynb) und
 [Zuordnen und Planen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=minizinc_zuordnung.ipynb).
 
+## Der Lehrgang: Algorithmen für die 1. Runde
+
+Jedes Notebook stellt ein Werkzeug an einfachen Beispielen vor und endet mit einer **Wettbewerbs-Ecke**: einer
+verkleinerten Fassung einer echten Aufgabe der 1. Runde. Voraussetzung ist der
+[Lehrgang zum Jugendwettbewerb](jwinf3.md) (mindestens Phase A und B, dazu die Notebooks 18, 21 und 22). Unter jeder Aufgabe
+kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks folgen.
+
+| Nr | Notebook | Inhalt | Wettbewerbs-Ecke |
+|---|---|---|---|
+| 01 | [Alle Möglichkeiten durchprobieren](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/01_durchprobieren.ipynb) | `itertools.product`, `permutations`, `combinations`, Anzahlen ausrechnen, O-Notation | Alphametiken, Nandu |
+
 ## Die Lösungsnotebooks
 
 | BwInf | Aufgabe | Kernwerkzeuge | Lösungsnotebook |

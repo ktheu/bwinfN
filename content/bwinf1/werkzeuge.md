@@ -22,6 +22,7 @@ vor allem in Phase B (Notebooks 09 bis 16). Aus Phase C sind für die 1. Runde b
 
 **Alle Möglichkeiten durchprobieren (Brute Force).** Bei kleinen Eingaben die einfachste und sicherste Lösung, oft mit
 `itertools`. Wichtig ist die Abschätzung, wie viele Möglichkeiten es gibt.
+Lehrgang: [01 Alle Möglichkeiten durchprobieren][LB01].
 [Alphametiken][33_Alphametiken], [Streichholzrätsel][39_Streichholzraetsel], [Nandu][42_Nandu],
 [Rationalisierung][32_Rationalisierung], [Schiebeparkplatz][40_Schiebeparkplatz], [Buffet-Lotterie][33_BuffetLotterie], [Vortänzer][32_Vortaenzer],
 [Zaras dritter Fehler][30_ZarasDritterFehler], [Aladins Lampen][30_AladinsLampen], [Sudokopie][41_Sudokopie],
@@ -255,6 +256,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 
 [← zur Übersicht der 1. Runde](https://github.com/ktheu/bwinfN/blob/main/bwinf1.md)
 
+[LB01]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/01_durchprobieren.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
