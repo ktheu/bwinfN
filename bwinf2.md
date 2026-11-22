@@ -46,6 +46,7 @@ installierten Python.
 | 36. (2017/18) | Aufgabe 1: Die Kunst der Fuge | [fuge_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/36_DieKunstDerFuge/fuge_loesung.ipynb) |
 | 36. (2017/18) | Aufgabe 2: Wehret den Wildschweinen! | [wildschwein_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/36_WehretDenWildschweinen/wildschwein_loesung.ipynb) |
 | 36. (2017/18) | Aufgabe 3: Quo vadis, Quax? | [quax_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/36_QuoVadisQuax/quax_loesung.ipynb) |
+| 35. (2016/17) | Aufgabe 1: Rosinen picken | [rosinen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/35_RosinenPicken/rosinen_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
