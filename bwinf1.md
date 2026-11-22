@@ -34,6 +34,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | Nr | Notebook | Inhalt | Wettbewerbs-Ecke |
 |---|---|---|---|
 | 01 | [Alle Möglichkeiten durchprobieren](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/01_durchprobieren.ipynb) | `itertools.product`, `permutations`, `combinations`, Anzahlen ausrechnen, O-Notation | Alphametiken, Nandu |
+| 02 | [Backtracking](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/02_backtracking.ipynb) | Setzen und zurücknehmen, früh abbrechen, Aufrufe zählen, alle Lösungen oder die erste | Dreieckspuzzle, Kassiopeias Weg |
 
 ## Die Lösungsnotebooks
 

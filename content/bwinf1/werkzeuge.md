@@ -30,6 +30,7 @@ Lehrgang: [01 Alle Möglichkeiten durchprobieren][LB01].
 
 **Backtracking.** Eine Lösung Schritt für Schritt mit Rekursion aufbauen, einen Schritt zurücknehmen, sobald er nicht mehr
 weiterführt, und früh abbrechen.
+Lehrgang: [02 Backtracking][LB02].
 [Geldtransporter][31_Geldtransporter], [Alphametiken][33_Alphametiken], [Kassiopeias Weg][34_KassiopeiasWeg],
 [Schrebergärten][37_Schrebergaerten], [Widerstand][37_Widerstand], [Blumenbeet][38_Blumenbeet], [Rominos][38_Rominos],
 [Dreieckspuzzle][39_Dreieckspuzzle], [Wörter aufräumen][39_WoerterAufraeumen], [Marktwaage][40_Marktwaage],
@@ -257,6 +258,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [← zur Übersicht der 1. Runde](https://github.com/ktheu/bwinfN/blob/main/bwinf1.md)
 
 [LB01]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/01_durchprobieren.ipynb
+[LB02]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/02_backtracking.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
