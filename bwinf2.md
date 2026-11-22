@@ -45,6 +45,7 @@ installierten Python.
 | 37. (2018/19) | Aufgabe 3: Schach dem Wildschwein | [schach_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/37_SchachDemWildschwein/schach_loesung.ipynb) |
 | 36. (2017/18) | Aufgabe 1: Die Kunst der Fuge | [fuge_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/36_DieKunstDerFuge/fuge_loesung.ipynb) |
 | 36. (2017/18) | Aufgabe 2: Wehret den Wildschweinen! | [wildschwein_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/36_WehretDenWildschweinen/wildschwein_loesung.ipynb) |
+| 36. (2017/18) | Aufgabe 3: Quo vadis, Quax? | [quax_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/36_QuoVadisQuax/quax_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
