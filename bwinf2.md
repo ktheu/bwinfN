@@ -42,6 +42,7 @@ installierten Python.
 | 38. (2019/20) | Aufgabe 3: Abbiegen? | [abbiegen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/38_Abbiegen/abbiegen_loesung.ipynb) |
 | 37. (2018/19) | Aufgabe 1: Lisa rennt | [lisarennt_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/37_LisaRennt/lisarennt_loesung.ipynb) |
 | 37. (2018/19) | Aufgabe 2: Dreiecksbeziehungen | [dreiecke_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/37_Dreiecksbeziehungen/dreiecke_loesung.ipynb) |
+| 37. (2018/19) | Aufgabe 3: Schach dem Wildschwein | [schach_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/37_SchachDemWildschwein/schach_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
