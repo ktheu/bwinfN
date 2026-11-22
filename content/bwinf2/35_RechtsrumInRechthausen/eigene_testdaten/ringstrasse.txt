@@ -1,0 +1,21 @@
+# Anzahl der Kreuzungen, Anzahl der Strassenabschnitte
+8 8
+# Kreuzungen mit Koordinaten
+A 0 0
+B 2 0
+C 4 0
+D 4 4
+E 2 4
+F 0 4
+G 2 6
+H 2 2
+# Strassenabschnitte: Anzahl, Liste (1 pro Zeile)
+8
+A B
+B C
+C D
+D E
+E F
+F A
+E G
+B H
