@@ -1,0 +1,8 @@
+Antonia und Familie;1;4;1
+Abiklasse am Wochentag;0;0;27
+Abiklasse am Wochenende;1;0;27
+Familie Stutzenberg am Wochenende;1;4;5
+Familie Stutzenberg am Wochentag;0;4;5
+Zwei Kegelvereine;1;0;32
+Vier am Wochenende;1;3;1
+Klassenfahrt;0;15;12
