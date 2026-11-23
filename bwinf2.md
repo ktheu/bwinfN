@@ -60,6 +60,7 @@ installierten Python.
 | 32. (2013/14) | Aufgabe 3: Vortänzer Challenge | [vortaenzer_challenge_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/32_VortaenzerChallenge/vortaenzer_challenge_loesung.ipynb) |
 | 31. (2012/13) | Aufgabe 1: Komplementär | [komplementaer_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/31_Komplementaer/komplementaer_loesung.ipynb) |
 | 31. (2012/13) | Aufgabe 2: Marsch auf Mars | [mars_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/31_MarschAufMars/mars_loesung.ipynb) |
+| 31. (2012/13) | Aufgabe 3: Tourality | [tourality_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/31_Tourality/tourality_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
