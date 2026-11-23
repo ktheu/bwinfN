@@ -97,7 +97,7 @@ Eine bestehende Zuordnung lässt sich über einen verbessernden Weg vergrößern
 
 **Zwischenergebnisse merken (Memoisierung, dynamische Programmierung).** Eine Aufgabe in kleinere gleichartige Teilaufgaben
 zerlegen und jedes Teilergebnis nur einmal ausrechnen, in einem Wörterbuch oder einer Tabelle.
-Lehrgang: [10 Merken][LB10].
+Lehrgang: [10 Merken][LB10], [11 Tabellen][LB11].
 [Zaras dritter Fehler][30_ZarasDritterFehler], [Geldtransporter][31_Geldtransporter], [Flaschenzug][34_Flaschenzug],
 [Buhnenrennen][35_Buhnenrennen], [Schwimmbad][36_Schwimmbad], [Auto-Scrabble][36_AutoScrabble],
 [Superstar][37_Superstar], [Voll daneben][37_VollDaneben], [Nummernmerker][38_Nummernmerker],
@@ -105,6 +105,7 @@ Lehrgang: [10 Merken][LB10].
 [Wandertag][43_Wandertag], [Bibertomograph][44_Bibertomograph]
 
 **Präfixsummen.** Summen über beliebige Abschnitte einer Liste mit einer einzigen Subtraktion ausrechnen.
+Lehrgang: [11 Tabellen][LB11].
 [Zaras dritter Fehler][30_ZarasDritterFehler], [Flaschenzug][34_Flaschenzug], [Voll daneben][37_VollDaneben]
 
 ## 4. Gierige Verfahren und warum sie stimmen
@@ -271,6 +272,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB06]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/06_zustaende.ipynb
 [LB07]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/07_dijkstra.ipynb
 [LB10]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/10_merken.ipynb
+[LB11]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/11_tabellen_dp.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
