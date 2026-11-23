@@ -37,6 +37,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | 02 | [Backtracking](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/02_backtracking.ipynb) | Setzen und zurücknehmen, früh abbrechen, Aufrufe zählen, alle Lösungen oder die erste | Dreieckspuzzle, Kassiopeias Weg |
 | 03 | [Schranken und Symmetrien](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/03_schranken_symmetrien.ipynb) | Beste Lösung merken, Schranke (Branch and Bound), `sorted` mit `key=lambda`, Symmetrie brechen, Normalform von Figuren | Blumenbeet, Rominos |
 | 04 | [Logisch schließen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/04_logisch_schliessen.ipynb) | Kandidaten, Regeln bis nichts mehr geht, Widersprüche, raten und wieder schließen, Eindeutigkeit, drei Zustände | Sudoku, Bibertomograph |
+| 05 | [Breitensuche](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/05_breitensuche.ipynb) | Graph als Wörterbuch, `deque`, beim Einreihen markieren, Vorgänger und Weg, Raster als Graph | Zauberschule, Arukone |
 
 ## Die Lösungsnotebooks
 
