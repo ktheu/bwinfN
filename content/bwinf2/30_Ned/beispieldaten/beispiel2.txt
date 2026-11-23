@@ -1,0 +1,18 @@
+# Beispiel 2 aus dem Aufgabenblatt (rechtes Bild)
+# 1. Zeile: Ladekapazität T in km
+# 2. Zeile: Depot (x y)
+# danach eine Straße pro Zeile: Anfang und Ende (x1 y1 x2 y2), waagerecht oder senkrecht
+12
+0 0
+0 0 0 6
+0 6 6 6
+6 6 6 0
+6 0 0 0
+1 1 1 5
+1 5 5 5
+5 5 5 1
+5 1 1 1
+4 5 4 6
+0 4 1 4
+5 4 6 4
+3 0 3 1

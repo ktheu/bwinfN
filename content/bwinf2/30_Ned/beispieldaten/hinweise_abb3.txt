@@ -1,0 +1,8 @@
+# Abbildung 3 der Lösungshinweise (dort mit T = 3)
+# 1. Zeile: Ladekapazität T in km
+# 2. Zeile: Depot (x y)
+# danach eine Straße pro Zeile: Anfang und Ende (x1 y1 x2 y2), waagerecht oder senkrecht
+3
+2 2
+2 2 2 0
+0 0 4 0

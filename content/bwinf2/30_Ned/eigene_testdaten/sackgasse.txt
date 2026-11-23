@@ -1,0 +1,7 @@
+# Eine lange Sackgasse, das Depot am Anfang
+# 1. Zeile: Ladekapazität T in km
+# 2. Zeile: Depot (x y)
+# danach eine Straße pro Zeile: Anfang und Ende (x1 y1 x2 y2), waagerecht oder senkrecht
+3
+0 0
+0 0 7 0
