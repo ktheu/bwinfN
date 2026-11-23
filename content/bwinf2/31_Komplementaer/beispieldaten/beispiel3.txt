@@ -1,0 +1,17 @@
+4 4
+acBd
+aDac
+abDd
+abAA
+adBA
+Cbcc
+abCD
+dBbC
+bdDa
+bDcc
+bAdA
+bBbC
+cADd
+cdBA
+dCCb
+ACDC

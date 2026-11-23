@@ -1,0 +1,26 @@
+5 5
+acBd
+aDac
+abDd
+abAA
+adBA
+Cbcc
+abCD
+dBbC
+bdDa
+bDcc
+bAdA
+bBbC
+cADd
+cdBA
+dCCb
+ACDC
+CcbB
+dadb
+Baab
+abDC
+adcD
+aBdc
+Dbda
+baAD
+dDcB

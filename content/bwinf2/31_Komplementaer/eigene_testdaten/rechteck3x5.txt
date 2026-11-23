@@ -1,0 +1,16 @@
+3 5
+CDaB
+DbAB
+DCac
+cBBb
+BcBD
+ccdA
+CCac
+BCAD
+DDDb
+cAdb
+dbDC
+AAda
+CCcA
+CbdD
+BDDb
