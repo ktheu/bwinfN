@@ -38,6 +38,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | 03 | [Schranken und Symmetrien](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/03_schranken_symmetrien.ipynb) | Beste Lösung merken, Schranke (Branch and Bound), `sorted` mit `key=lambda`, Symmetrie brechen, Normalform von Figuren | Blumenbeet, Rominos |
 | 04 | [Logisch schließen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/04_logisch_schliessen.ipynb) | Kandidaten, Regeln bis nichts mehr geht, Widersprüche, raten und wieder schließen, Eindeutigkeit, drei Zustände | Sudoku, Bibertomograph |
 | 05 | [Breitensuche](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/05_breitensuche.ipynb) | Graph als Wörterbuch, `deque`, beim Einreihen markieren, Vorgänger und Weg, Raster als Graph | Zauberschule, Arukone |
+| 06 | [Zustände](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/06_zustaende.ipynb) | Zustände als Tupel, Nachfolger, Breitensuche über Zustände, Normalform, Größe des Zustandsraums, „nicht lösbar“ beweisen | Faires Füllen, Hüpfburg |
 
 ## Die Lösungsnotebooks
 
