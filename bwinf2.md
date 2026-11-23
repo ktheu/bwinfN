@@ -54,6 +54,7 @@ installierten Python.
 | 34. (2015/16) | Aufgabe 3: Torkelnde Yamyams | [yamyams_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/34_TorkelndeYamyams/yamyams_loesung.ipynb) |
 | 33. (2014/15) | Aufgabe 1: Seilschaften | [seilschaften_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/33_Seilschaften/seilschaften_loesung.ipynb) |
 | 33. (2014/15) | Aufgabe 2: Panorama-Kegeln | [kegeln_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/33_PanoramaKegeln/kegeln_loesung.ipynb) |
+| 33. (2014/15) | Aufgabe 3: Mississippi | [mississippi_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/33_Mississippi/mississippi_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
