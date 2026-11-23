@@ -1,0 +1,7 @@
+4
+5
+rot blau 3
+blau gelb 2
+gelb rot 2
+gruen blau 1
+gruen gelb 3
