@@ -1,0 +1,9 @@
+# Lebensspannen aus dem Aufgabenblatt: Name; Geburt; Tod (leer: lebte 2014 noch)
+# Jahreszahl oder Datum TT.MM.JJJJ
+Ada Lovelace; 1815; 1852
+Grace Hopper; 1906; 01.01.1992
+Adele Goldstine; 1920; 1964
+Frances E. Allen; 1932;
+Anita Borg; 1949; 2003
+Marissa Mayer; 1975;
+Meike Grewing; 19.12.1992;
