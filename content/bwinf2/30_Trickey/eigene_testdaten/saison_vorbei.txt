@@ -1,0 +1,10 @@
+4
+Nord
+Ost
+Sued
+West
+West
+Nord:Ost:Sued - 2:2:0
+Nord:Ost:West - 1:1:1
+Nord:Sued:West - 0:1:1
+Ost:Sued:West - 0:2:0

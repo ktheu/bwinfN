@@ -1,0 +1,12 @@
+5
+Berlin
+Muenchen
+Mannheim
+Hamburg
+Essen
+Essen
+Mannheim:Berlin:Essen - 1:0:0
+Mannheim:Muenchen:Essen - 2:1:0
+Mannheim:Hamburg:Essen - 1:0:0
+Berlin:Muenchen:Essen - 1:1:0
+Mannheim:Berlin:Muenchen - 3:0:0

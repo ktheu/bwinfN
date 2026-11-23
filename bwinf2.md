@@ -63,6 +63,7 @@ installierten Python.
 | 31. (2012/13) | Aufgabe 3: Tourality | [tourality_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/31_Tourality/tourality_loesung.ipynb) |
 | 30. (2011/12) | Aufgabe 1: Ned | [ned_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb) |
 | 30. (2011/12) | Aufgabe 2: Kool | [kool_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb) |
+| 30. (2011/12) | Aufgabe 3: Trickey | [trickey_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
