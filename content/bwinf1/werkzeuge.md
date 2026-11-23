@@ -45,6 +45,7 @@ Lehrgang: [03 Schranken und Symmetrien][LB03].
 
 **Logisches Schließen (Constraint Propagation).** Aus den Regeln zwingende Folgerungen ziehen, bevor man rät. Das macht
 die Suche oft winzig.
+Lehrgang: [04 Logisch schließen][LB04].
 [Fehlerfrei puzzeln][30_FehlerfreiPuzzeln], [Zimmerbelegung][36_Zimmerbelegung], [Bibertomograph][44_Bibertomograph]
 
 **Symmetrien und Normalform.** Lösungen, die durch Drehen, Spiegeln oder Umordnen auseinander hervorgehen, nur einmal
@@ -262,6 +263,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB01]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/01_durchprobieren.ipynb
 [LB02]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/02_backtracking.ipynb
 [LB03]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/03_schranken_symmetrien.ipynb
+[LB04]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/04_logisch_schliessen.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
