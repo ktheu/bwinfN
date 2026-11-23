@@ -74,6 +74,7 @@ einen Schritt, der länger dauert.
 
 **Kürzeste Wege mit Gewichten (Dijkstra).** Wenn die Schritte verschieden viel kosten, mit einer Prioritätswarteschlange
 (`heapq`).
+Lehrgang: [07 Dijkstra][LB07].
 [Buhnenrennen][35_Buhnenrennen], [Nummernmerker][38_Nummernmerker], [Zauberschule][42_Zauberschule],
 [Stadtführung][42_Stadtfuehrung], [Das ägyptische Grabmal][43_AegyptischesGrabmal]
 
@@ -267,6 +268,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB04]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/04_logisch_schliessen.ipynb
 [LB05]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/05_breitensuche.ipynb
 [LB06]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/06_zustaende.ipynb
+[LB07]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/07_dijkstra.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb

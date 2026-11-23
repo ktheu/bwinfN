@@ -39,6 +39,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | 04 | [Logisch schließen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/04_logisch_schliessen.ipynb) | Kandidaten, Regeln bis nichts mehr geht, Widersprüche, raten und wieder schließen, Eindeutigkeit, drei Zustände | Sudoku, Bibertomograph |
 | 05 | [Breitensuche](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/05_breitensuche.ipynb) | Graph als Wörterbuch, `deque`, beim Einreihen markieren, Vorgänger und Weg, Raster als Graph | Zauberschule, Arukone |
 | 06 | [Zustände](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/06_zustaende.ipynb) | Zustände als Tupel, Nachfolger, Breitensuche über Zustände, Normalform, Größe des Zustandsraums, „nicht lösbar“ beweisen | Faires Füllen, Hüpfburg |
+| 07 | [Dijkstra](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/07_dijkstra.ipynb) | Gewichtete Kanten, `heapq`, veraltete Einträge überspringen, Weg zurückverfolgen, Zwischenknoten, Zustände mit Kosten | Zauberschule, Ägyptisches Grabmal |
 
 ## Die Lösungsnotebooks
 
