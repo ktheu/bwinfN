@@ -42,6 +42,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | 07 | [Dijkstra](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/07_dijkstra.ipynb) | Gewichtete Kanten, `heapq`, veraltete Einträge überspringen, Weg zurückverfolgen, Zwischenknoten, Zustände mit Kosten | Zauberschule, Ägyptisches Grabmal |
 | 10 | [Merken](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/10_merken.ipynb) | Memoisierung mit Wörterbuch und Tupeln als Schlüssel, Aufrufe zählen, beste Lösung zurückverfolgen, `@lru_cache` | Schwimmbad, Nummernmerker |
 | 11 | [Tabellen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/11_tabellen_dp.ipynb) | Von der Rekursion zur Tabelle, Münzwechsel, Wort in Wörter zerlegen, Präfixsummen | Auto-Scrabble, Voll daneben |
+| 12 | [Greedy](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/12_greedy.ipynb) | Gierige Wahl mit Begründung, Gegenbeispiele durch Vergleich mit Durchprobieren, Termine planen, Wechselgeld | Urlaubsfahrt, Frühsport |
 
 ## Die Lösungsnotebooks
 

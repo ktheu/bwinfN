@@ -112,6 +112,7 @@ Lehrgang: [11 Tabellen][LB11].
 
 **Greedy mit Begründung.** Immer den im Moment besten Schritt nehmen. In der 1. Runde gehört dazu eine Begründung, warum
 das zum Ziel führt (zum Beispiel ein Austauschargument), oder ein Vergleich mit einer genauen Lösung.
+Lehrgang: [12 Greedy][LB12].
 [Frühsport][31_Fruehsport], [Mobile][33_Mobile] (wie bei Huffman), [Urlaubsfahrt][38_Urlaubsfahrt],
 [Vollgeladen][40_Vollgeladen], [Arukone][42_Arukone], [Wichteln][39_Wichteln] (als Vergleich)
 
@@ -273,6 +274,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB07]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/07_dijkstra.ipynb
 [LB10]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/10_merken.ipynb
 [LB11]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/11_tabellen_dp.ipynb
+[LB12]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/12_greedy.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
