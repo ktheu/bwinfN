@@ -52,6 +52,7 @@ installierten Python.
 | 34. (2015/16) | Aufgabe 1: Geburtstagskuchen | [kuchen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/34_Geburtstagskuchen/kuchen_loesung.ipynb) |
 | 34. (2015/16) | Aufgabe 2: Missglückte Drohnenlieferung | [drohnen_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/34_MissglueckteDrohnenlieferung/drohnen_loesung.ipynb) |
 | 34. (2015/16) | Aufgabe 3: Torkelnde Yamyams | [yamyams_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/34_TorkelndeYamyams/yamyams_loesung.ipynb) |
+| 33. (2014/15) | Aufgabe 1: Seilschaften | [seilschaften_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/33_Seilschaften/seilschaften_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 
