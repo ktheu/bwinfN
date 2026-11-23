@@ -1,0 +1,4 @@
+# Nur eine Sackgasse: der Eingang selbst
+# Jedes Kastenzeichen ist ein Würfel (Kontakte: ─ links+rechts, ┌ rechts+unten, ╴ nur links usw.).
+# Leerzeichen und · zählen nicht. Zeilen, die mit # beginnen, sind Kommentare.
+╴

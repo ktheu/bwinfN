@@ -1,0 +1,9 @@
+# Zufällige Würfelmenge: zufallslabyrinth(10, 10, 8, 0.1, 4), gemischt
+# Jedes Kastenzeichen ist ein Würfel (Kontakte: ─ links+rechts, ┌ rechts+unten, ╴ nur links usw.).
+# Leerzeichen und · zählen nicht. Zeilen, die mit # beginnen, sind Kommentare.
+├─┐└─┬┬┐╴╶╷┤└╴┐┼
+┤─┴╵├┤─┴┐┬╴┌│─╵┌
+╷│╴┴┐├╴┐─└╵─┴╵┴╵
+├─┼─│╵╵╷╷├┌╵││╷│
+│┴├┘┐┌╵┼┘╴└┌│││┌
+╷─┼╷╴┬│└└┘╵┬

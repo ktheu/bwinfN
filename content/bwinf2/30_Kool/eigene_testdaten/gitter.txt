@@ -1,0 +1,6 @@
+# Ein volles Gitter aus 3 x 3 Würfeln
+# Jedes Kastenzeichen ist ein Würfel (Kontakte: ─ links+rechts, ┌ rechts+unten, ╴ nur links usw.).
+# Leerzeichen und · zählen nicht. Zeilen, die mit # beginnen, sind Kommentare.
+┬┬┐
+├┼┤
+└┴┘

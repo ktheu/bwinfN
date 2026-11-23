@@ -1,0 +1,8 @@
+# Die 26 Würfel des Beispiellabyrinths aus dem Aufgabenblatt, so angeordnet wie im Bild
+# Jedes Kastenzeichen ist ein Würfel (Kontakte: ─ links+rechts, ┌ rechts+unten, ╴ nur links usw.).
+# Leerzeichen und · zählen nicht. Zeilen, die mit # beginnen, sind Kommentare.
+──┬─┐·
+·╷├┬┘·
+┌┘└┼┬┐
+├┐┌┘││
+└┴┘·└┘

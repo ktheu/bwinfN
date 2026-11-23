@@ -1,0 +1,5 @@
+# Ein Kamm: ein Gang mit vier Sackgassen
+# Jedes Kastenzeichen ist ein Würfel (Kontakte: ─ links+rechts, ┌ rechts+unten, ╴ nur links usw.).
+# Leerzeichen und · zählen nicht. Zeilen, die mit # beginnen, sind Kommentare.
+─┬┬┬┐
+·╵╵╵╵
