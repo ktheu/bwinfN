@@ -1,0 +1,6 @@
+# Eigene Roboter für ein kleines Turnier
+# je Zeile: Name, Art des Nachtanzens (kopie, gierig, optimal) und drei Vortanzprogramme
+Kopierer  kopie    FrrFrrFrrF FFFFFFFFFF FlFrFlFrFl
+Gierig    gierig   9FFr. 5FlFr. 8FBr.
+Lehrling  optimal  FrrFrrFrrF FFFFFFFFFF FlFrFlFrFl
+Profi     optimal  299FF..Fr. 99rB.r9B.. FF988F..l.

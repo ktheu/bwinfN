@@ -1,0 +1,6 @@
+# Tanzprogramme aus der Aufgabe „Vortänzer“ der 1. Runde (32. BwInf, Aufgabe 3)
+# je Zeile: Name und Tanzprogramm
+quadrat   FrrFrrFrrF
+t1        4FFFFrr.
+t2        FrrFllFrrFrrrFF
+t3        lFrrFFllFFFrrFllFrrFF

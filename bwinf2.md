@@ -57,6 +57,7 @@ installierten Python.
 | 33. (2014/15) | Aufgabe 3: Mississippi | [mississippi_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/33_Mississippi/mississippi_loesung.ipynb) |
 | 32. (2013/14) | Aufgabe 1: Buschfeuer | [buschfeuer_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/32_Buschfeuer/buschfeuer_loesung.ipynb) |
 | 32. (2013/14) | Aufgabe 2: Lebenslinien | [lebenslinien_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/32_Lebenslinien/lebenslinien_loesung.ipynb) |
+| 32. (2013/14) | Aufgabe 3: Vortänzer Challenge | [vortaenzer_challenge_loesung.ipynb](https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/32_VortaenzerChallenge/vortaenzer_challenge_loesung.ipynb) |
 
 Weitere Aufgaben folgen. Die Aufgaben des laufenden Wettbewerbs sind absichtlich nicht dabei.
 

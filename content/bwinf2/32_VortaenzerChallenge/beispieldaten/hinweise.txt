@@ -1,0 +1,9 @@
+# Beispiele aus den Lösungshinweisen (32. BwInf, 2. Runde, Aufgabe 3)
+# je Zeile: Name und Tanzprogramm (Schleifen erlaubt), Zeilen mit # sind Kommentare
+gierig        rrrrFrrrrFrrrrF
+ueberlappend  FrrFrrrBrrrB
+versetzt      FrrFrrrBrrrBrrrBrr
+kompression   4rrFFFF.
+vortanz1      299FF..Fr.
+vortanz2      99rB.r9B..
+vortanz3      FF988F..l.
