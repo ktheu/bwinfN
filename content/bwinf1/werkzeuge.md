@@ -84,6 +84,7 @@ Lehrgang: [07 Dijkstra][LB07].
 
 **Reihenfolgen und Kreise (topologische Sortierung).** Dinge so ordnen, dass alle Vorgaben „A vor B“ erfüllt sind, und
 Widersprüche als Kreise erkennen.
+Lehrgang: [08 Reihenfolgen][LB08].
 [Schwierigkeiten][43_Schwierigkeiten]
 
 **Bäume.** Verschachtelte Strukturen (Mobile, Schaltungen, Klammerausdrücke) als Baum speichern und rekursiv auswerten.
@@ -273,6 +274,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB05]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/05_breitensuche.ipynb
 [LB06]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/06_zustaende.ipynb
 [LB07]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/07_dijkstra.ipynb
+[LB08]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/08_reihenfolgen.ipynb
 [LB10]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/10_merken.ipynb
 [LB11]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/11_tabellen_dp.ipynb
 [LB12]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/12_greedy.ipynb
