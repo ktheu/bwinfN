@@ -165,8 +165,10 @@ Lehrgang: [17 Geometrie][LB17].
 ## 8. Mathematik
 
 **Rechnen modulo 2 und das Gauß-Verfahren.** [Aladins Lampen][30_AladinsLampen]
+Lehrgang: [18 Mathematik][LB18].
 
 **Größter gemeinsamer Teiler (euklidischer Algorithmus).** [Rationalisierung][32_Rationalisierung], [Mobile][33_Mobile]
+Lehrgang: [18 Mathematik][LB18].
 
 **Kombinatorik und große Zahlen.** Möglichkeiten zählen, ohne sie alle aufzuzählen; Python rechnet mit beliebig großen ganzen
 Zahlen. [Tutorien][32_Tutorien], [Flaschenzug][34_Flaschenzug], [Schlüssellöcher][34_Schluesselloecher]
@@ -174,9 +176,11 @@ Zahlen. [Tutorien][32_Tutorien], [Flaschenzug][34_Flaschenzug], [Schlüssellöch
 **Wahrscheinlichkeiten genau ausrechnen.** [Tobis Turnier][39_TobisTurnier]
 
 **Exakt rechnen mit Brüchen.** `fractions.Fraction` oder Zähler und Nenner selbst speichern.
+Lehrgang: [18 Mathematik][LB18].
 [Rationalisierung][32_Rationalisierung], [Urlaubsfahrt][38_Urlaubsfahrt], [Drehfreudig][44_Drehfreudig]
 
 **Invarianten und Schubfachprinzip.** Eine Größe finden, die sich nie ändert, und damit zeigen, dass etwas unmöglich ist.
+Lehrgang: [18 Mathematik][LB18].
 [Frühsport][31_Fruehsport], [Kassiopeias Weg][34_KassiopeiasWeg] (Schachbrettfärbung), [Bauernopfer][36_Bauernopfer],
 [Sudokopie][41_Sudokopie], [ChoreoGraph][44_ChoreoGraph] (gerade und ungerade Umordnungen)
 
@@ -290,6 +294,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB15]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/15_ereignisse_zufall.ipynb
 [LB16]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/16_heuristiken.ipynb
 [LB17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/17_geometrie.ipynb
+[LB18]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/18_mathematik.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
