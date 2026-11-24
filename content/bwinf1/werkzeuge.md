@@ -93,6 +93,7 @@ Lehrgang: [09 Bäume][LB09].
 
 **Zuordnen (Matching) mit verbessernden Wegen.** Paare bilden, sodass möglichst viele oder möglichst gute Paare entstehen.
 Eine bestehende Zuordnung lässt sich über einen verbessernden Weg vergrößern.
+Lehrgang: [14 Zuordnen][LB14].
 [Städtepartner][30_Staedtepartner], [Tutorien][32_Tutorien], [Wörter aufräumen][39_WoerterAufraeumen],
 [Wichteln][39_Wichteln]
 
@@ -281,6 +282,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB11]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/11_tabellen_dp.ipynb
 [LB12]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/12_greedy.ipynb
 [LB13]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/13_binaere_suche.ipynb
+[LB14]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/14_zuordnen.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
