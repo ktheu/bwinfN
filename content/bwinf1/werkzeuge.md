@@ -56,6 +56,7 @@ Lehrgang: [03 Schranken und Symmetrien][LB03].
 
 **Binäre Suche und Meet in the Middle.** In einer sortierten Liste schnell suchen, einen Zielwert raten und prüfen oder
 eine große Suche in zwei halbe Suchen teilen.
+Lehrgang: [13 Binäre Suche][LB13].
 [Vollgeladen][40_Vollgeladen], [Marktwaage][40_Marktwaage], [Widerstand][37_Widerstand]
 
 ## 2. Graphen
@@ -275,6 +276,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB10]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/10_merken.ipynb
 [LB11]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/11_tabellen_dp.ipynb
 [LB12]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/12_greedy.ipynb
+[LB13]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/13_binaere_suche.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
