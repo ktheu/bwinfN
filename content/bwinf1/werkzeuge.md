@@ -88,6 +88,7 @@ Lehrgang: [08 Reihenfolgen][LB08].
 [Schwierigkeiten][43_Schwierigkeiten]
 
 **Bäume.** Verschachtelte Strukturen (Mobile, Schaltungen, Klammerausdrücke) als Baum speichern und rekursiv auswerten.
+Lehrgang: [09 Bäume][LB09].
 [Mobile][33_Mobile], [Widerstand][37_Widerstand], [Drehfreudig][44_Drehfreudig]
 
 **Zuordnen (Matching) mit verbessernden Wegen.** Paare bilden, sodass möglichst viele oder möglichst gute Paare entstehen.
@@ -275,6 +276,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB06]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/06_zustaende.ipynb
 [LB07]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/07_dijkstra.ipynb
 [LB08]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/08_reihenfolgen.ipynb
+[LB09]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/09_baeume.ipynb
 [LB10]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/10_merken.ipynb
 [LB11]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/11_tabellen_dp.ipynb
 [LB12]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/12_greedy.ipynb
