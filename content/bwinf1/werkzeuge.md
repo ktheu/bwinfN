@@ -124,6 +124,7 @@ Lehrgang: [12 Greedy][LB12].
 
 **Ereignisse der Zeit nach abarbeiten.** Statt jede Minute zu simulieren, springt man mit einer Prioritätswarteschlange
 (`heapq`) von Ereignis zu Ereignis.
+Lehrgang: [15 Ereignisse und Zufall][LB15].
 [Verzinkt][41_Verzinkt], [Fahrradwerkstatt][41_Fahrradwerkstatt]
 
 **Schritt für Schritt simulieren.** Zustand festlegen, Regeln in eine feste Reihenfolge bringen, gleichzeitige Aktionen
@@ -133,6 +134,7 @@ richtig behandeln, Endlosschleifen und Sonderfälle erkennen.
 
 **Monte-Carlo-Verfahren.** Ein Zufallsexperiment sehr oft wiederholen und die Häufigkeiten auswerten, mit festem Startwert
 für `random`, damit es nachvollziehbar bleibt.
+Lehrgang: [15 Ereignisse und Zufall][LB15].
 [Kaffeerunde][31_Kaffeerunde], [Ameisenfutter][34_Ameisenfutter], [Tobis Turnier][39_TobisTurnier],
 [Würfelglück][40_Wuerfelglueck], [Verzinkt][41_Verzinkt]
 
@@ -283,6 +285,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB12]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/12_greedy.ipynb
 [LB13]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/13_binaere_suche.ipynb
 [LB14]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/14_zuordnen.ipynb
+[LB15]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/15_ereignisse_zufall.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
