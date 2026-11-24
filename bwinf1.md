@@ -49,6 +49,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | 14 | [Zuordnen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/14_zuordnen.ipynb) | Zuordnung als dict, Greedy bleibt hängen, verbessernde Wege (Kuhn), Laufzeit | Wichteln, Wörter aufräumen |
 | 15 | [Ereignisse und Zufall](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/15_ereignisse_zufall.ipynb) | Ereignisliste mit `heapq`, Kennzahlen, Monte-Carlo mit festem Startwert, Streuung | Fahrradwerkstatt, Tobis Turnier, Verzinkt |
 | 16 | [Heuristiken](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/16_heuristiken.ipynb) | Bewertung und Nachbarn, Hill-Climbing, Zufall mit Neustart, Simulated Annealing | Schlüssellöcher, Wortsuche |
+| 17 | [Geometrie](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/17_geometrie.ipynb) | Vektoren, Kreuzprodukt und Orientierung, Schnittpunkte, Abstand Punkt–Strecke, Toleranz | Dreiecke zählen, Nasser Hund, Krocket |
 
 ## Die Lösungsnotebooks
 

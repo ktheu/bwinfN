@@ -154,6 +154,7 @@ Lehrgang: [16 Heuristiken][LB16].
 
 **Rechnen mit Koordinaten.** Vektoren, Geraden, Schnittpunkte von Strecken, Abstände von Punkt zu Strecke und von Strecke
 zu Strecke. Kommazahlen vergleicht man nie mit `==`, sondern mit einer kleinen Toleranz.
+Lehrgang: [17 Geometrie][LB17].
 [SVG-Fraktale][31_SVGFraktale], [Pong][33_Pong], [Dreiecke zählen][36_DreieckeZaehlen], [Krocket][43_Krocket],
 [Nasser Hund][44_NasserHund]
 
@@ -288,6 +289,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB14]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/14_zuordnen.ipynb
 [LB15]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/15_ereignisse_zufall.ipynb
 [LB16]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/16_heuristiken.ipynb
+[LB17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/17_geometrie.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
