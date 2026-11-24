@@ -48,6 +48,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | 13 | [Binäre Suche](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/13_binaere_suche.ipynb) | Binäre Suche selbst und mit `bisect`, Zielwert raten und prüfen, Meet in the Middle | Vollgeladen, Marktwaage |
 | 14 | [Zuordnen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/14_zuordnen.ipynb) | Zuordnung als dict, Greedy bleibt hängen, verbessernde Wege (Kuhn), Laufzeit | Wichteln, Wörter aufräumen |
 | 15 | [Ereignisse und Zufall](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/15_ereignisse_zufall.ipynb) | Ereignisliste mit `heapq`, Kennzahlen, Monte-Carlo mit festem Startwert, Streuung | Fahrradwerkstatt, Tobis Turnier, Verzinkt |
+| 16 | [Heuristiken](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/16_heuristiken.ipynb) | Bewertung und Nachbarn, Hill-Climbing, Zufall mit Neustart, Simulated Annealing | Schlüssellöcher, Wortsuche |
 
 ## Die Lösungsnotebooks
 

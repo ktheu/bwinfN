@@ -147,6 +147,7 @@ gemischte Strategien (Spieltheorie), Spielbäume und Gewinnstellungen.
 
 **Lokale Suche und Zufall mit Neustart.** Wenn die genaue Lösung zu lange dauert: eine Lösung schrittweise verbessern
 (Hill-Climbing, Simulated Annealing) oder zufällig neu beginnen, bis es passt.
+Lehrgang: [16 Heuristiken][LB16].
 [Fehlerfrei puzzeln][30_FehlerfreiPuzzeln], [Schlüssellöcher][34_Schluesselloecher], [Wortsuche][40_Wortsuche]
 
 ## 7. Geometrie
@@ -286,6 +287,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB13]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/13_binaere_suche.ipynb
 [LB14]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/14_zuordnen.ipynb
 [LB15]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/15_ereignisse_zufall.ipynb
+[LB16]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/16_heuristiken.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
