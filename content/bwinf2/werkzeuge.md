@@ -25,11 +25,13 @@ Neu ist in der 2. Runde vor allem dreierlei:
 
 **Ein Schiedsrichter für jede Lösung.** Bevor man einer Lösung glaubt, prüft ein eigenes, einfaches Programm, ob sie alle
 Regeln einhält. Bei kleinen Eingaben vergleicht man außerdem mit einer vollständigen Suche.
+Lehrgang: [01 Prüfen und Schranken][L201].
 [Missglückte Drohnenlieferung][34_MissglueckteDrohnenlieferung], [Wehret den Wildschweinen!][36_WehretDenWildschweinen],
 [Trickey][30_Trickey], [Spießgesellen][39_Spiessgesellen], [Eisbudendilemma][39_Eisbudendilemma]
 
 **Schranken.** Eine untere (oder obere) Schranke sagt, wie gut es höchstens gehen kann. Der Abstand der eigenen Lösung zur
 Schranke zeigt, wie viel noch zu holen wäre, auch wenn man das Optimum nicht kennt.
+Lehrgang: [01 Prüfen und Schranken][L201].
 [Missglückte Drohnenlieferung][34_MissglueckteDrohnenlieferung] (Manhattan-Abstand),
 [Flohmarkt in Langdorf][39_FlohmarktInLangdorf] (Fläche), [Die Kunst der Fuge][36_DieKunstDerFuge] (Schubfachprinzip),
 [Die Siedler][42_DieSiedler], [Wehret den Wildschweinen!][36_WehretDenWildschweinen], [Pancake Sort][41_PancakeSort]
@@ -204,6 +206,7 @@ dir das Lösungsnotebook erst danach an.
 8. **Geometrie, Bilder, Texte:** [Lisa rennt][37_LisaRennt], [Geburtstagskuchen][34_Geburtstagskuchen],
    [Kreis-Code][35_KreisCode], [Schmucknachrichten][43_Schmucknachrichten]
 
+[L201]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/01_pruefen_und_schranken.ipynb
 [30_Kool]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb
 [30_Ned]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb
 [30_Trickey]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb

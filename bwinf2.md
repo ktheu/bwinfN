@@ -17,6 +17,18 @@ installierten Python.
 Welche Aufgaben welches Verfahren brauchen und in welcher Reihenfolge man sie üben kann, steht in der Übersicht
 **[Werkzeuge für die 2. Runde](https://github.com/ktheu/bwinfN/blob/main/content/bwinf2/werkzeuge.md)**.
 
+## Der Lehrgang: Methoden für die 2. Runde
+
+Jedes Notebook stellt eine Methode an einfachen Beispielen vor und endet mit einer **Wettbewerbs-Ecke**: einer
+verkleinerten Fassung einer echten Aufgabe der 2. Runde. Bei Heuristiken lernst du immer auch, wie gut sie sind (Schranken,
+Vergleich mit exakten Lösungen). Wo es passt, gibt es am Ende ein MiniZinc-Modell. Voraussetzung ist der
+[Lehrgang zur 1. Runde](bwinf1.md). Unter jeder Aufgabe kannst du zuerst einen Tipp und dann die Lösung aufklappen.
+Weitere Notebooks folgen.
+
+| Nr | Notebook | Inhalt | Wettbewerbs-Ecke |
+|---|---|---|---|
+| 01 | [Prüfen und Schranken](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/01_pruefen_und_schranken.ipynb) | Schiedsrichter, Heuristiken für das Behälterproblem, exakte Lösung kleiner Fälle, untere Schranken, Güte als Tabelle, MiniZinc | Missglückte Drohnenlieferung, Die Kunst der Fuge |
+
 ## Die Lösungsnotebooks
 
 | BwInf | Aufgabe | Kernwerkzeuge | Lösungsnotebook |
