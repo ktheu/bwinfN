@@ -140,6 +140,7 @@ Lehrgang: [15 Ereignisse und Zufall][LB15].
 
 **Spiele und Strategien.** Strategien gegeneinander antreten lassen, aus früheren Runden lernen, beste Antworten und
 gemischte Strategien (Spieltheorie), Spielbäume und Gewinnstellungen.
+Lehrgang: [19 Spiele][LB19].
 [Versteigerung][32_Versteigerung], [Pong][33_Pong], [Groker][34_Groker],
 [Bauernopfer][36_Bauernopfer]
 
@@ -295,6 +296,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB16]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/16_heuristiken.ipynb
 [LB17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/17_geometrie.ipynb
 [LB18]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/18_mathematik.ipynb
+[LB19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/19_spiele.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb

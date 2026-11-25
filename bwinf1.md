@@ -51,6 +51,7 @@ kannst du zuerst einen Tipp und dann die Lösung aufklappen. Weitere Notebooks f
 | 16 | [Heuristiken](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/16_heuristiken.ipynb) | Bewertung und Nachbarn, Hill-Climbing, Zufall mit Neustart, Simulated Annealing | Schlüssellöcher, Wortsuche |
 | 17 | [Geometrie](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/17_geometrie.ipynb) | Vektoren, Kreuzprodukt und Orientierung, Schnittpunkte, Abstand Punkt–Strecke, Toleranz | Dreiecke zählen, Nasser Hund, Krocket |
 | 18 | [Mathematik](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/18_mathematik.ipynb) | ggT, exakt rechnen mit Fraction, Rechnen modulo 2 und Gauß, Invarianten und Färbungen | Aladins Lampen, Kassiopeias Weg, Rationalisierung |
+| 19 | [Spiele](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/19_spiele.ipynb) | Gewinnstellungen rekursiv, Spielbaum und Merken, Muster begründen, Minimax, Strategien gegeneinander | Bauernopfer |
 
 ## Die Lösungsnotebooks
 
