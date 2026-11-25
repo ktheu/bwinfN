@@ -209,6 +209,7 @@ Lehrgang: [18 Mathematik][LB18].
 In der 1. Runde ist oft nicht das Programm schwer, sondern die Frage, was genau gesucht ist. Man muss die Aufgabe in ein
 klares Modell übersetzen: Was ist ein Zustand, was ein Knoten, was eine Zahl? Welche Lesart einer unklaren Stelle wähle ich,
 und wie begründe ich sie in der Dokumentation?
+Lehrgang: [20 Dokumentation][LB20].
 [Sprichwort][35_Sprichwort], [Störung][41_Stoerung], [Stadtführung][42_Stadtfuehrung], [Krocket][43_Krocket],
 [Nasser Hund][44_NasserHund], [Bibertomograph][44_Bibertomograph], [Großstadtbauern][44_Grossstadtbauern]
 
@@ -297,6 +298,7 @@ kombiniert. Bearbeite eine Aufgabe zuerst selbst und sieh dir das Lösungsnotebo
 [LB17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/17_geometrie.ipynb
 [LB18]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/18_mathematik.ipynb
 [LB19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/19_spiele.ipynb
+[LB20]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf1/20_dokumentation.ipynb
 [L17]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/17_geometrie.ipynb
 [L19]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/19_zeichnen.ipynb
 [L21]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_jwinf3/21_erreichbarkeit.ipynb
