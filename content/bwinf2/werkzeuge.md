@@ -87,10 +87,12 @@ Lehrgang: [06 Backtracking für große Fälle][L206].
 
 **Große Zustandsräume.** Zustände kompakt und in Normalform speichern, die Größe des Raums abschätzen, in Schichten suchen,
 vom Ziel aus rechnen.
+Lehrgang: [07 Große Zustandsräume][L207].
 [Seilschaften][33_Seilschaften], [Simultane Labyrinthe][43_SimultaneLabyrinthe], [Pancake Sort][41_PancakeSort],
 [Transformers][44_Transformers], [Stromrallye][38_Stromrallye], [Rechtsrum in Rechthausen][35_RechtsrumInRechthausen]
 
 **Spiele.** Gewinnstellungen mit Tiefenschranke, Rückwärtsanalyse vom Spielende her, Spielbaum und Minimax.
+Lehrgang: [07 Große Zustandsräume][L207] (nur als Verweis).
 [Schach dem Wildschwein][37_SchachDemWildschwein], [Tourality][31_Tourality], [Vortänzer Challenge][32_VortaenzerChallenge]
 
 ## 5. Graphen
@@ -216,6 +218,7 @@ dir das Lösungsnotebook erst danach an.
 [L203]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb
 [L204]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/04_lokale_suche.ipynb
 [L206]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/06_backtracking_gross.ipynb
+[L207]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/07_grosse_zustandsraeume.ipynb
 [30_Kool]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb
 [30_Ned]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb
 [30_Trickey]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb

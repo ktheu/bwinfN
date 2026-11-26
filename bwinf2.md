@@ -32,6 +32,7 @@ Weitere Notebooks folgen.
 | 03 | [Heuristiken bauen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb) | Reihenfolge- und Platzierungsregeln, Regeln als Tabelle vergleichen, Gegenbeispiele, Kandidatenstellen, MiniZinc als Maßstab | Flohmarkt in Langdorf, Die Siedler |
 | 04 | [Lokale Suche](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/04_lokale_suche.ipynb) | Nachbarschaften, Bewertung schrittweise, Bergsteigen, Neustarts, Simulated Annealing, Parameter durch Experiment, MiniZinc als Beweis | Stilvolle Päckchen, Kool |
 | 06 | [Backtracking für große Fälle](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/06_backtracking_gross.ipynb) | Wo verzweigen, Vorausprüfung, Sackgassen merken, gleiche Teile zusammenfassen, Symmetrien, Knoten zählen, MiniZinc-Sudoku | Konfetti, Komplementär |
+| 07 | [Große Zustandsräume](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/07_grosse_zustandsraeume.ipynb) | Zustände kompakt, Größe messen, Abstände vom Ziel, Suche von beiden Seiten, A* mit zulässiger Schätzung, iteratives Vertiefen, MiniZinc mit fester Zugzahl | Pancake Sort, Simultane Labyrinthe |
 
 ## Die Lösungsnotebooks
 
