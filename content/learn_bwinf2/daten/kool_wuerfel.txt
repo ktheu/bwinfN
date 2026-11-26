@@ -1,0 +1,7 @@
+# Die 26 Würfel des Beispiellabyrinths aus dem Aufgabenblatt (30. BwInf, 2. Runde, Aufgabe 2), so angeordnet wie im Bild.
+# · ist ein freies Feld. Für die Aufgabe zählen nur die Würfel; die Anordnung wird neu gesucht.
+──┬─┐·
+·╷├┬┘·
+┌┘└┼┬┐
+├┐┌┘││
+└┴┘·└┘

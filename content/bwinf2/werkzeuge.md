@@ -66,6 +66,7 @@ Lehrgang: [03 Heuristiken bauen][L203].
 
 **Lokale Suche, Zufall und Neustarts.** Eine Lösung durch kleine Änderungen verbessern (Bergsteigen), mit Simulated
 Annealing auch Verschlechterungen zulassen, mit Zufall neu beginnen, Teile räumen und neu füllen.
+Lehrgang: [04 Lokale Suche][L204].
 [Kool][30_Kool], [Ned][30_Ned], [Komplementär][31_Komplementaer], [Eisbudendilemma][39_Eisbudendilemma],
 [Flohmarkt in Langdorf][39_FlohmarktInLangdorf], [Stilvolle Päckchen][42_StilvollePaeckchen], [Konfetti][43_Konfetti],
 [Weniger krumme Touren][41_WenigerKrummeTouren], [Die Kunst der Fuge][36_DieKunstDerFuge], [Müllabfuhr][40_Muellabfuhr]
@@ -212,6 +213,7 @@ dir das Lösungsnotebook erst danach an.
 [L201]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/01_pruefen_und_schranken.ipynb
 [L202]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb
 [L203]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb
+[L204]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/04_lokale_suche.ipynb
 [30_Kool]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb
 [30_Ned]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb
 [30_Trickey]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb

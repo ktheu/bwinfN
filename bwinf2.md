@@ -30,6 +30,7 @@ Weitere Notebooks folgen.
 | 01 | [Prüfen und Schranken](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/01_pruefen_und_schranken.ipynb) | Schiedsrichter, Heuristiken für das Behälterproblem, exakte Lösung kleiner Fälle, untere Schranken, Güte als Tabelle, MiniZinc | Missglückte Drohnenlieferung, Die Kunst der Fuge |
 | 02 | [Struktur erkennen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb) | Vermuten, prüfen, begründen, ausnutzen: Invarianten, XOR, Mengen, erzwungene Reihenfolge, MiniZinc als Gegenprobe | Alles Käse, Spießgesellen, Zara Zackigs Zurückkehr |
 | 03 | [Heuristiken bauen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb) | Reihenfolge- und Platzierungsregeln, Regeln als Tabelle vergleichen, Gegenbeispiele, Kandidatenstellen, MiniZinc als Maßstab | Flohmarkt in Langdorf, Die Siedler |
+| 04 | [Lokale Suche](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/04_lokale_suche.ipynb) | Nachbarschaften, Bewertung schrittweise, Bergsteigen, Neustarts, Simulated Annealing, Parameter durch Experiment, MiniZinc als Beweis | Stilvolle Päckchen, Kool |
 
 ## Die Lösungsnotebooks
 
