@@ -40,6 +40,7 @@ Lehrgang: [01 Prüfen und Schranken][L201].
 
 **Die Struktur der Aufgabe erkennen.** Oft folgt aus den Regeln etwas, das die Suche fast überflüssig macht: eine erzwungene
 Reihenfolge, eine Formel, eine Zerlegung in unabhängige Teile.
+Lehrgang: [02 Struktur erkennen][L202].
 [Alles Käse][41_AllesKaese] (Zwangsreihenfolge), [Stilvolle Päckchen][42_StilvollePaeckchen] (Cliquen),
 [Hex-Max][40_HexMax] (umformulieren), [Gießroboter][44_Giessroboter] (gute Modellierung), [Trickey][30_Trickey],
 [Die Kunst der Fuge][36_DieKunstDerFuge]
@@ -50,6 +51,7 @@ Reihenfolge, eine Formel, eine Zerlegung in unabhängige Teile.
 
 **Mengen, Invarianten und XOR.** Mit Mengen ausschließen, was nicht sein kann; eine Größe finden, die sich nie ändert;
 mit XOR und Gauß-Verfahren über {0, 1} rechnen.
+Lehrgang: [02 Struktur erkennen][L202].
 [Spießgesellen][39_Spiessgesellen], [Zara Zackigs Zurückkehr][40_ZaraZackigsZurueckkehr], [Transformers][44_Transformers]
 (Invarianten, Normalform), [Eisbudendilemma][39_Eisbudendilemma] (Mengen als Bitmasken)
 
@@ -207,6 +209,7 @@ dir das Lösungsnotebook erst danach an.
    [Kreis-Code][35_KreisCode], [Schmucknachrichten][43_Schmucknachrichten]
 
 [L201]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/01_pruefen_und_schranken.ipynb
+[L202]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb
 [30_Kool]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb
 [30_Ned]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb
 [30_Trickey]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb

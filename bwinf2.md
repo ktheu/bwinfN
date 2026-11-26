@@ -28,6 +28,7 @@ Weitere Notebooks folgen.
 | Nr | Notebook | Inhalt | Wettbewerbs-Ecke |
 |---|---|---|---|
 | 01 | [Prüfen und Schranken](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/01_pruefen_und_schranken.ipynb) | Schiedsrichter, Heuristiken für das Behälterproblem, exakte Lösung kleiner Fälle, untere Schranken, Güte als Tabelle, MiniZinc | Missglückte Drohnenlieferung, Die Kunst der Fuge |
+| 02 | [Struktur erkennen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb) | Vermuten, prüfen, begründen, ausnutzen: Invarianten, XOR, Mengen, erzwungene Reihenfolge, MiniZinc als Gegenprobe | Alles Käse, Spießgesellen, Zara Zackigs Zurückkehr |
 
 ## Die Lösungsnotebooks
 
