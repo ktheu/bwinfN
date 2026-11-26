@@ -31,6 +31,7 @@ Weitere Notebooks folgen.
 | 02 | [Struktur erkennen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb) | Vermuten, prüfen, begründen, ausnutzen: Invarianten, XOR, Mengen, erzwungene Reihenfolge, MiniZinc als Gegenprobe | Alles Käse, Spießgesellen, Zara Zackigs Zurückkehr |
 | 03 | [Heuristiken bauen](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb) | Reihenfolge- und Platzierungsregeln, Regeln als Tabelle vergleichen, Gegenbeispiele, Kandidatenstellen, MiniZinc als Maßstab | Flohmarkt in Langdorf, Die Siedler |
 | 04 | [Lokale Suche](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/04_lokale_suche.ipynb) | Nachbarschaften, Bewertung schrittweise, Bergsteigen, Neustarts, Simulated Annealing, Parameter durch Experiment, MiniZinc als Beweis | Stilvolle Päckchen, Kool |
+| 06 | [Backtracking für große Fälle](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/06_backtracking_gross.ipynb) | Wo verzweigen, Vorausprüfung, Sackgassen merken, gleiche Teile zusammenfassen, Symmetrien, Knoten zählen, MiniZinc-Sudoku | Konfetti, Komplementär |
 
 ## Die Lösungsnotebooks
 

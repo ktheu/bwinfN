@@ -1,0 +1,10 @@
+3 3
+acBd
+aDac
+abDd
+abAA
+adBA
+Cbcc
+abCD
+dBbC
+bdDa

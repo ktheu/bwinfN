@@ -80,6 +80,7 @@ Lehrgang: [04 Lokale Suche][L204].
 
 **Backtracking mit gutem Abschneiden.** Dort verzweigen, wo es die wenigsten Möglichkeiten gibt, Sackgassen früh erkennen
 und merken, Symmetrien ausnutzen, gleiche Teile zusammenfassen.
+Lehrgang: [06 Backtracking für große Fälle][L206].
 [Konfetti][43_Konfetti], [Die Kunst der Fuge][36_DieKunstDerFuge], [Komplementär][31_Komplementaer], [Kool][30_Kool],
 [Stromrallye][38_Stromrallye], [Weniger krumme Touren][41_WenigerKrummeTouren], [Buschfeuer][32_Buschfeuer],
 [Lebenslinien][32_Lebenslinien], [Rosinen picken][35_RosinenPicken], [Alles Käse][41_AllesKaese]
@@ -214,6 +215,7 @@ dir das Lösungsnotebook erst danach an.
 [L202]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb
 [L203]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb
 [L204]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/04_lokale_suche.ipynb
+[L206]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/06_backtracking_gross.ipynb
 [30_Kool]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb
 [30_Ned]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb
 [30_Trickey]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb
