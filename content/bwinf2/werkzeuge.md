@@ -59,6 +59,7 @@ Lehrgang: [02 Struktur erkennen][L202].
 
 **Gierig eine Lösung bauen.** Schritt für Schritt das tun, was im Moment am meisten bringt. Meist gibt es mehrere sinnvolle
 Regeln; man vergleicht sie an allen Beispielen und kennt ihre Grenzen.
+Lehrgang: [03 Heuristiken bauen][L203].
 [Flohmarkt in Langdorf][39_FlohmarktInLangdorf], [Die Siedler][42_DieSiedler], [Dreiecksbeziehungen][37_Dreiecksbeziehungen],
 [Buschfeuer][32_Buschfeuer], [Missglückte Drohnenlieferung][34_MissglueckteDrohnenlieferung], [Rosinen picken][35_RosinenPicken],
 [Tourality][31_Tourality], [Laubmaschen][42_Laubmaschen], [Vortänzer Challenge][32_VortaenzerChallenge]
@@ -210,6 +211,7 @@ dir das Lösungsnotebook erst danach an.
 
 [L201]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/01_pruefen_und_schranken.ipynb
 [L202]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb
+[L203]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb
 [30_Kool]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb
 [30_Ned]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb
 [30_Trickey]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb
