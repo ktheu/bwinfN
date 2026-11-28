@@ -158,7 +158,7 @@ Es gelten die Regeln der 1. Runde, dazu:
 Gerade bei Heuristiken gehört in die Dokumentation, wie gut das Ergebnis ist: Vergleich mit einer Schranke, mit einer
 exakten Lösung kleiner Fälle oder mit anderen Verfahren. Die Lösungsnotebooks vergleichen dazu ehrlich mit den Zahlen der
 offiziellen Lösungshinweise, auch wenn sie schlechter sind.
-Lehrgang: [16 Experimente auswerten][L216].
+Lehrgang: [16 Experimente auswerten][L216], [17 Dokumentation der 2. Runde][L217].
 
 ## 11. Python-Bibliotheken
 
@@ -221,6 +221,7 @@ dir das Lösungsnotebook erst danach an.
 [L206]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/06_backtracking_gross.ipynb
 [L207]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/07_grosse_zustandsraeume.ipynb
 [L216]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/16_experimente.ipynb
+[L217]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/17_dokumentation_2.ipynb
 [30_Kool]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Kool/kool_loesung.ipynb
 [30_Ned]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Ned/ned_loesung.ipynb
 [30_Trickey]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=bwinf2/30_Trickey/trickey_loesung.ipynb

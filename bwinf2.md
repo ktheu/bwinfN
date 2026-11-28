@@ -34,6 +34,7 @@ Weitere Notebooks folgen.
 | 06 | [Backtracking für große Fälle](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/06_backtracking_gross.ipynb) | Wo verzweigen, Vorausprüfung, Sackgassen merken, gleiche Teile zusammenfassen, Symmetrien, Knoten zählen, MiniZinc-Sudoku | Konfetti, Komplementär |
 | 07 | [Große Zustandsräume](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/07_grosse_zustandsraeume.ipynb) | Zustände kompakt, Größe messen, Abstände vom Ziel, Suche von beiden Seiten, A* mit zulässiger Schätzung, iteratives Vertiefen, MiniZinc mit fester Zugzahl | Pancake Sort, Simultane Labyrinthe |
 | 16 | [Experimente auswerten](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/16_experimente.ipynb) | Experiment planen, Testfälle und Grenzfälle erzeugen, Mittel und Streuung, fair vergleichen, Diagramme mit matplotlib, Wachstum messen | Gießroboter |
+| 17 | [Dokumentation der 2. Runde](https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/17_dokumentation_2.ipynb) | Was die 2. Runde zusätzlich verlangt, theoretische Analyse, NP-schwer richtig formulieren, Erweiterungen begründen und messen, Musterdokumentation | Eisbudendilemma von A bis Z |
 
 ## Die Lösungsnotebooks
 
