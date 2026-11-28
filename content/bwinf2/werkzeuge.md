@@ -73,6 +73,7 @@ Lehrgang: [04 Lokale Suche][L204].
 
 **Rundreisen und Touren.** Eine kurze Rundreise durch alle Orte (TSP: nächster Nachbar, Einfügen, 2-opt) oder eine Tour
 über alle Straßen (Eulerkreis, Knoten ungeraden Grades paaren).
+Lehrgang: [05 Touren][L205].
 [Gießroboter][44_Giessroboter], [Müllabfuhr][40_Muellabfuhr], [Ned][30_Ned], [Tourality][31_Tourality],
 [Weniger krumme Touren][41_WenigerKrummeTouren]
 
@@ -218,6 +219,7 @@ dir das Lösungsnotebook erst danach an.
 [L202]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/02_struktur_erkennen.ipynb
 [L203]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/03_heuristiken_bauen.ipynb
 [L204]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/04_lokale_suche.ipynb
+[L205]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/05_touren.ipynb
 [L206]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/06_backtracking_gross.ipynb
 [L207]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/07_grosse_zustandsraeume.ipynb
 [L216]: https://ktheu.github.io/bwinfN/notebooks/index.html?path=learn_bwinf2/16_experimente.ipynb
